@@ -3,14 +3,14 @@
 //
 //    n0                          n4
 //    |                           |
-//    |(5 Mbps, 2ms)             |(5 Mbps, 2ms)
+//    |(5 Mbps, 2ms)              |(5 Mbps, 2ms)
 //    |                           |
 //    |                           |
-//    |      (5 Mbps, 5ms)       |
+//    |      (5 Mbps, 5ms)        |
 //    n2 ------------------------ n3
 //    |                           |
 //    |                           |
-//    |(5 Mbps, 2ms)             |(5 Mbps, 2ms)
+//    |(5 Mbps, 2ms)              |(5 Mbps, 2ms)
 //    |                           |
 //    n1                          n5
 //
@@ -46,11 +46,12 @@ Gnuplot2dDataset bbr_dataset;
 static void
 TraceThroughput(Ptr<FlowMonitor> monitor)
 {
-    std::cout<<"Current time for TP measurement: " <<Simulator::Now().GetSeconds() <<std::endl;
+    // std::cout<<"Current time for TP measurement: " <<Simulator::Now().GetSeconds() <<std::endl;
     FlowMonitor::FlowStatsContainer stats = monitor->GetFlowStats();
     Time curTime = Simulator::Now();
 
     int i = 0;
+    
     for (auto itr = stats.begin (); itr != stats.end (); ++itr) {
         auto x = curTime.GetSeconds();
         auto y = 8 * (itr->second.txBytes - prev[i]) /
@@ -81,7 +82,7 @@ int main(int argc, char *argv[])
     std::string tcpTypeId = "TcpBbr";
     uint32_t delAckCount = 2;
     std::string queueDisc = "FifoQueueDisc";
-    Time stopTime = Seconds(10);
+    Time stopTime = Seconds(100);
     bool enablePcap = false;
 
     CommandLine cmd(__FILE__);
@@ -224,3 +225,7 @@ int main(int argc, char *argv[])
     flowmon.SerializeToXmlFile("test-tcp-throughput-topology.xml", true, true);
     return 0;
 }
+
+// CUBIC vs BBR (cubic starts first)
+// CUBIC vs BBR (larger time scales)
+// CUBIC vs CUBIC (same/diff starts)
