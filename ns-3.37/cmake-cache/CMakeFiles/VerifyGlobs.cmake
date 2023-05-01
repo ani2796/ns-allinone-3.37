@@ -18,6 +18,16 @@ if(NOT "${NEW_GLOB}" STREQUAL "${OLD_GLOB}")
 endif()
 
 # scratch_sources at scratch/CMakeLists.txt:88 (file)
+file(GLOB NEW_GLOB LIST_DIRECTORIES true "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/scratch/nms-experiments/[^.]*.cc")
+set(OLD_GLOB
+  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/scratch/nms-experiments/nms-project.cc"
+  )
+if(NOT "${NEW_GLOB}" STREQUAL "${OLD_GLOB}")
+  message("-- GLOB mismatch!")
+  file(TOUCH_NOCREATE "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/cmake-cache/CMakeFiles/cmake.verify_globs")
+endif()
+
+# scratch_sources at scratch/CMakeLists.txt:88 (file)
 file(GLOB NEW_GLOB LIST_DIRECTORIES true "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/scratch/subdir/[^.]*.cc")
 set(OLD_GLOB
   "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/scratch/subdir/scratch-subdir-additional-header.cc"
@@ -37,6 +47,8 @@ set(OLD_GLOB
   "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/scratch/myfirst.cc"
   "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/scratch/mysecond.cc"
   "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/scratch/mythird.cc"
+  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/scratch/nms-experiments"
+  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/scratch/nms-experiments/nms-project.cc"
   "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/scratch/nms-project.cc"
   "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/scratch/scratch-simulator.cc"
   "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/scratch/subdir"

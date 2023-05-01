@@ -257,6 +257,20 @@ scratch_scratch-simulator/fast:
 .PHONY : scratch_scratch-simulator/fast
 
 # Convenience name for target.
+scratch/CMakeFiles/scratch_nms-experiments_nms-project.dir/rule:
+	cd /Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/cmake-cache && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 scratch/CMakeFiles/scratch_nms-experiments_nms-project.dir/rule
+.PHONY : scratch/CMakeFiles/scratch_nms-experiments_nms-project.dir/rule
+
+# Convenience name for target.
+scratch_nms-experiments_nms-project: scratch/CMakeFiles/scratch_nms-experiments_nms-project.dir/rule
+.PHONY : scratch_nms-experiments_nms-project
+
+# fast build rule for target.
+scratch_nms-experiments_nms-project/fast:
+	cd /Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/cmake-cache && $(MAKE) $(MAKESILENT) -f scratch/CMakeFiles/scratch_nms-experiments_nms-project.dir/build.make scratch/CMakeFiles/scratch_nms-experiments_nms-project.dir/build
+.PHONY : scratch_nms-experiments_nms-project/fast
+
+# Convenience name for target.
 scratch/CMakeFiles/scratch_subdir_scratch-subdir.dir/rule:
 	cd /Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/cmake-cache && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 scratch/CMakeFiles/scratch_subdir_scratch-subdir.dir/rule
 .PHONY : scratch/CMakeFiles/scratch_subdir_scratch-subdir.dir/rule
@@ -365,6 +379,30 @@ mythird.s: mythird.cc.s
 mythird.cc.s:
 	cd /Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/cmake-cache && $(MAKE) $(MAKESILENT) -f scratch/CMakeFiles/scratch_mythird.dir/build.make scratch/CMakeFiles/scratch_mythird.dir/mythird.cc.s
 .PHONY : mythird.cc.s
+
+nms-experiments/nms-project.o: nms-experiments/nms-project.cc.o
+.PHONY : nms-experiments/nms-project.o
+
+# target to build an object file
+nms-experiments/nms-project.cc.o:
+	cd /Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/cmake-cache && $(MAKE) $(MAKESILENT) -f scratch/CMakeFiles/scratch_nms-experiments_nms-project.dir/build.make scratch/CMakeFiles/scratch_nms-experiments_nms-project.dir/nms-experiments/nms-project.cc.o
+.PHONY : nms-experiments/nms-project.cc.o
+
+nms-experiments/nms-project.i: nms-experiments/nms-project.cc.i
+.PHONY : nms-experiments/nms-project.i
+
+# target to preprocess a source file
+nms-experiments/nms-project.cc.i:
+	cd /Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/cmake-cache && $(MAKE) $(MAKESILENT) -f scratch/CMakeFiles/scratch_nms-experiments_nms-project.dir/build.make scratch/CMakeFiles/scratch_nms-experiments_nms-project.dir/nms-experiments/nms-project.cc.i
+.PHONY : nms-experiments/nms-project.cc.i
+
+nms-experiments/nms-project.s: nms-experiments/nms-project.cc.s
+.PHONY : nms-experiments/nms-project.s
+
+# target to generate assembly for a file
+nms-experiments/nms-project.cc.s:
+	cd /Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/cmake-cache && $(MAKE) $(MAKESILENT) -f scratch/CMakeFiles/scratch_nms-experiments_nms-project.dir/build.make scratch/CMakeFiles/scratch_nms-experiments_nms-project.dir/nms-experiments/nms-project.cc.s
+.PHONY : nms-experiments/nms-project.cc.s
 
 nms-project.o: nms-project.cc.o
 .PHONY : nms-project.o
@@ -479,6 +517,7 @@ help:
 	@echo "... scratch_myfirst"
 	@echo "... scratch_mysecond"
 	@echo "... scratch_mythird"
+	@echo "... scratch_nms-experiments_nms-project"
 	@echo "... scratch_nms-project"
 	@echo "... scratch_scratch-simulator"
 	@echo "... scratch_subdir_scratch-subdir"
@@ -494,6 +533,9 @@ help:
 	@echo "... mythird.o"
 	@echo "... mythird.i"
 	@echo "... mythird.s"
+	@echo "... nms-experiments/nms-project.o"
+	@echo "... nms-experiments/nms-project.i"
+	@echo "... nms-experiments/nms-project.s"
 	@echo "... nms-project.o"
 	@echo "... nms-project.i"
 	@echo "... nms-project.s"

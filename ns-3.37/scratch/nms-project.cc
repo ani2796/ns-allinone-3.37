@@ -46,7 +46,7 @@ Gnuplot2dDataset bbr_dataset;
 static void
 TraceThroughput(Ptr<FlowMonitor> monitor)
 {
-    // std::cout<<"Current time for TP measurement: " <<Simulator::Now().GetSeconds() <<std::endl;
+    std::cout<<"Current time for TP measurement: " <<Simulator::Now().GetSeconds() <<std::endl;
     FlowMonitor::FlowStatsContainer stats = monitor->GetFlowStats();
     Time curTime = Simulator::Now();
 

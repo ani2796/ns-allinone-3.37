@@ -5542,6 +5542,19 @@ scratch_scratch-simulator/fast:
 .PHONY : scratch_scratch-simulator/fast
 
 #=============================================================================
+# Target rules for targets named scratch_nms-experiments_nms-project
+
+# Build rule for target.
+scratch_nms-experiments_nms-project: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 scratch_nms-experiments_nms-project
+.PHONY : scratch_nms-experiments_nms-project
+
+# fast build rule for target.
+scratch_nms-experiments_nms-project/fast:
+	$(MAKE) $(MAKESILENT) -f scratch/CMakeFiles/scratch_nms-experiments_nms-project.dir/build.make scratch/CMakeFiles/scratch_nms-experiments_nms-project.dir/build
+.PHONY : scratch_nms-experiments_nms-project/fast
+
+#=============================================================================
 # Target rules for targets named scratch_subdir_scratch-subdir
 
 # Build rule for target.
@@ -6007,6 +6020,7 @@ help:
 	@echo "... scratch_myfirst"
 	@echo "... scratch_mysecond"
 	@echo "... scratch_mythird"
+	@echo "... scratch_nms-experiments_nms-project"
 	@echo "... scratch_nms-project"
 	@echo "... scratch_scratch-simulator"
 	@echo "... scratch_subdir_scratch-subdir"
