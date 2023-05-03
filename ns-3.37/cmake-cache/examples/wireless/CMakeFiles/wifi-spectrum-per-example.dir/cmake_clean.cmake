@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/examples/wireless/ns3.37-wifi-spectrum-per-example-default"
-  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/examples/wireless/ns3.37-wifi-spectrum-per-example-default.pdb"
+  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/examples/wireless/ns3.37-wifi-spectrum-per-example-debug"
+  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/examples/wireless/ns3.37-wifi-spectrum-per-example-debug.pdb"
   "CMakeFiles/wifi-spectrum-per-example.dir/wifi-spectrum-per-example.cc.o"
   "CMakeFiles/wifi-spectrum-per-example.dir/wifi-spectrum-per-example.cc.o.d"
 )

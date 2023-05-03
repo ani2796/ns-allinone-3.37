@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/examples/wireless/ns3.37-wifi-ht-network-default"
-  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/examples/wireless/ns3.37-wifi-ht-network-default.pdb"
+  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/examples/wireless/ns3.37-wifi-ht-network-debug"
+  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/examples/wireless/ns3.37-wifi-ht-network-debug.pdb"
   "CMakeFiles/wifi-ht-network.dir/wifi-ht-network.cc.o"
   "CMakeFiles/wifi-ht-network.dir/wifi-ht-network.cc.o.d"
 )

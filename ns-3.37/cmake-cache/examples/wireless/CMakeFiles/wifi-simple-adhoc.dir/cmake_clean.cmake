@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/examples/wireless/ns3.37-wifi-simple-adhoc-default"
-  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/examples/wireless/ns3.37-wifi-simple-adhoc-default.pdb"
+  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/examples/wireless/ns3.37-wifi-simple-adhoc-debug"
+  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/examples/wireless/ns3.37-wifi-simple-adhoc-debug.pdb"
   "CMakeFiles/wifi-simple-adhoc.dir/wifi-simple-adhoc.cc.o"
   "CMakeFiles/wifi-simple-adhoc.dir/wifi-simple-adhoc.cc.o.d"
 )

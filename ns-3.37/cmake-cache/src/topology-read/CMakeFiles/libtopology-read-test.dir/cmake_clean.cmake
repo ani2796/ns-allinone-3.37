@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-topology-read-test-default.dylib"
-  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-topology-read-test-default.pdb"
+  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-topology-read-test-debug.dylib"
+  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-topology-read-test-debug.pdb"
   "CMakeFiles/libtopology-read-test.dir/test/rocketfuel-topology-reader-test-suite.cc.o"
   "CMakeFiles/libtopology-read-test.dir/test/rocketfuel-topology-reader-test-suite.cc.o.d"
 )

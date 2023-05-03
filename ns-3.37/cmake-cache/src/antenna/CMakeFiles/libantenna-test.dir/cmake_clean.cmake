@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-antenna-test-default.dylib"
-  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-antenna-test-default.pdb"
+  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-antenna-test-debug.dylib"
+  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-antenna-test-debug.pdb"
   "CMakeFiles/libantenna-test.dir/test/test-angles.cc.o"
   "CMakeFiles/libantenna-test.dir/test/test-angles.cc.o.d"
   "CMakeFiles/libantenna-test.dir/test/test-cosine-antenna.cc.o"

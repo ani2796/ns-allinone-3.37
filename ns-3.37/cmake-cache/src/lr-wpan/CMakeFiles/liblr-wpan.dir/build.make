@@ -89,28 +89,28 @@ liblr__wpan_EXTERNAL_OBJECTS = \
 "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/cmake-cache/src/lr-wpan/CMakeFiles/liblr-wpan-obj.dir/model/lr-wpan-spectrum-signal-parameters.cc.o" \
 "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/cmake-cache/src/lr-wpan/CMakeFiles/liblr-wpan-obj.dir/model/lr-wpan-spectrum-value-helper.cc.o"
 
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-lr-wpan-default.dylib: src/lr-wpan/CMakeFiles/liblr-wpan-obj.dir/helper/lr-wpan-helper.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-lr-wpan-default.dylib: src/lr-wpan/CMakeFiles/liblr-wpan-obj.dir/model/lr-wpan-csmaca.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-lr-wpan-default.dylib: src/lr-wpan/CMakeFiles/liblr-wpan-obj.dir/model/lr-wpan-error-model.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-lr-wpan-default.dylib: src/lr-wpan/CMakeFiles/liblr-wpan-obj.dir/model/lr-wpan-fields.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-lr-wpan-default.dylib: src/lr-wpan/CMakeFiles/liblr-wpan-obj.dir/model/lr-wpan-interference-helper.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-lr-wpan-default.dylib: src/lr-wpan/CMakeFiles/liblr-wpan-obj.dir/model/lr-wpan-lqi-tag.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-lr-wpan-default.dylib: src/lr-wpan/CMakeFiles/liblr-wpan-obj.dir/model/lr-wpan-mac-header.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-lr-wpan-default.dylib: src/lr-wpan/CMakeFiles/liblr-wpan-obj.dir/model/lr-wpan-mac-pl-headers.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-lr-wpan-default.dylib: src/lr-wpan/CMakeFiles/liblr-wpan-obj.dir/model/lr-wpan-mac-trailer.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-lr-wpan-default.dylib: src/lr-wpan/CMakeFiles/liblr-wpan-obj.dir/model/lr-wpan-mac.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-lr-wpan-default.dylib: src/lr-wpan/CMakeFiles/liblr-wpan-obj.dir/model/lr-wpan-net-device.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-lr-wpan-default.dylib: src/lr-wpan/CMakeFiles/liblr-wpan-obj.dir/model/lr-wpan-phy.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-lr-wpan-default.dylib: src/lr-wpan/CMakeFiles/liblr-wpan-obj.dir/model/lr-wpan-spectrum-signal-parameters.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-lr-wpan-default.dylib: src/lr-wpan/CMakeFiles/liblr-wpan-obj.dir/model/lr-wpan-spectrum-value-helper.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-lr-wpan-default.dylib: src/lr-wpan/CMakeFiles/liblr-wpan.dir/build.make
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-lr-wpan-default.dylib: /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/lib/libsqlite3.tbd
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-lr-wpan-default.dylib: src/lr-wpan/CMakeFiles/liblr-wpan.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/cmake-cache/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Linking CXX shared library /Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-lr-wpan-default.dylib"
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-lr-wpan-debug.dylib: src/lr-wpan/CMakeFiles/liblr-wpan-obj.dir/helper/lr-wpan-helper.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-lr-wpan-debug.dylib: src/lr-wpan/CMakeFiles/liblr-wpan-obj.dir/model/lr-wpan-csmaca.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-lr-wpan-debug.dylib: src/lr-wpan/CMakeFiles/liblr-wpan-obj.dir/model/lr-wpan-error-model.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-lr-wpan-debug.dylib: src/lr-wpan/CMakeFiles/liblr-wpan-obj.dir/model/lr-wpan-fields.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-lr-wpan-debug.dylib: src/lr-wpan/CMakeFiles/liblr-wpan-obj.dir/model/lr-wpan-interference-helper.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-lr-wpan-debug.dylib: src/lr-wpan/CMakeFiles/liblr-wpan-obj.dir/model/lr-wpan-lqi-tag.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-lr-wpan-debug.dylib: src/lr-wpan/CMakeFiles/liblr-wpan-obj.dir/model/lr-wpan-mac-header.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-lr-wpan-debug.dylib: src/lr-wpan/CMakeFiles/liblr-wpan-obj.dir/model/lr-wpan-mac-pl-headers.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-lr-wpan-debug.dylib: src/lr-wpan/CMakeFiles/liblr-wpan-obj.dir/model/lr-wpan-mac-trailer.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-lr-wpan-debug.dylib: src/lr-wpan/CMakeFiles/liblr-wpan-obj.dir/model/lr-wpan-mac.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-lr-wpan-debug.dylib: src/lr-wpan/CMakeFiles/liblr-wpan-obj.dir/model/lr-wpan-net-device.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-lr-wpan-debug.dylib: src/lr-wpan/CMakeFiles/liblr-wpan-obj.dir/model/lr-wpan-phy.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-lr-wpan-debug.dylib: src/lr-wpan/CMakeFiles/liblr-wpan-obj.dir/model/lr-wpan-spectrum-signal-parameters.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-lr-wpan-debug.dylib: src/lr-wpan/CMakeFiles/liblr-wpan-obj.dir/model/lr-wpan-spectrum-value-helper.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-lr-wpan-debug.dylib: src/lr-wpan/CMakeFiles/liblr-wpan.dir/build.make
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-lr-wpan-debug.dylib: /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/lib/libsqlite3.tbd
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-lr-wpan-debug.dylib: src/lr-wpan/CMakeFiles/liblr-wpan.dir/link.txt
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/cmake-cache/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Linking CXX shared library /Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-lr-wpan-debug.dylib"
 	cd /Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/cmake-cache/src/lr-wpan && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/liblr-wpan.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
-src/lr-wpan/CMakeFiles/liblr-wpan.dir/build: /Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-lr-wpan-default.dylib
+src/lr-wpan/CMakeFiles/liblr-wpan.dir/build: /Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-lr-wpan-debug.dylib
 .PHONY : src/lr-wpan/CMakeFiles/liblr-wpan.dir/build
 
 src/lr-wpan/CMakeFiles/liblr-wpan.dir/clean:

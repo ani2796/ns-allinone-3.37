@@ -98,37 +98,37 @@ libapplications_EXTERNAL_OBJECTS = \
 "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/cmake-cache/src/applications/CMakeFiles/libapplications-obj.dir/model/udp-server.cc.o" \
 "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/cmake-cache/src/applications/CMakeFiles/libapplications-obj.dir/model/udp-trace-client.cc.o"
 
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-applications-default.dylib: src/applications/CMakeFiles/libapplications-obj.dir/helper/bulk-send-helper.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-applications-default.dylib: src/applications/CMakeFiles/libapplications-obj.dir/helper/on-off-helper.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-applications-default.dylib: src/applications/CMakeFiles/libapplications-obj.dir/helper/packet-sink-helper.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-applications-default.dylib: src/applications/CMakeFiles/libapplications-obj.dir/helper/three-gpp-http-helper.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-applications-default.dylib: src/applications/CMakeFiles/libapplications-obj.dir/helper/udp-client-server-helper.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-applications-default.dylib: src/applications/CMakeFiles/libapplications-obj.dir/helper/udp-echo-helper.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-applications-default.dylib: src/applications/CMakeFiles/libapplications-obj.dir/model/application-packet-probe.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-applications-default.dylib: src/applications/CMakeFiles/libapplications-obj.dir/model/bulk-send-application.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-applications-default.dylib: src/applications/CMakeFiles/libapplications-obj.dir/model/onoff-application.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-applications-default.dylib: src/applications/CMakeFiles/libapplications-obj.dir/model/packet-loss-counter.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-applications-default.dylib: src/applications/CMakeFiles/libapplications-obj.dir/model/packet-sink.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-applications-default.dylib: src/applications/CMakeFiles/libapplications-obj.dir/model/seq-ts-echo-header.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-applications-default.dylib: src/applications/CMakeFiles/libapplications-obj.dir/model/seq-ts-header.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-applications-default.dylib: src/applications/CMakeFiles/libapplications-obj.dir/model/seq-ts-size-header.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-applications-default.dylib: src/applications/CMakeFiles/libapplications-obj.dir/model/three-gpp-http-client.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-applications-default.dylib: src/applications/CMakeFiles/libapplications-obj.dir/model/three-gpp-http-header.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-applications-default.dylib: src/applications/CMakeFiles/libapplications-obj.dir/model/three-gpp-http-server.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-applications-default.dylib: src/applications/CMakeFiles/libapplications-obj.dir/model/three-gpp-http-variables.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-applications-default.dylib: src/applications/CMakeFiles/libapplications-obj.dir/model/udp-client.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-applications-default.dylib: src/applications/CMakeFiles/libapplications-obj.dir/model/udp-echo-client.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-applications-default.dylib: src/applications/CMakeFiles/libapplications-obj.dir/model/udp-echo-server.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-applications-default.dylib: src/applications/CMakeFiles/libapplications-obj.dir/model/udp-server.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-applications-default.dylib: src/applications/CMakeFiles/libapplications-obj.dir/model/udp-trace-client.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-applications-default.dylib: src/applications/CMakeFiles/libapplications.dir/build.make
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-applications-default.dylib: /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/lib/libsqlite3.tbd
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-applications-default.dylib: src/applications/CMakeFiles/libapplications.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/cmake-cache/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Linking CXX shared library /Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-applications-default.dylib"
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-applications-debug.dylib: src/applications/CMakeFiles/libapplications-obj.dir/helper/bulk-send-helper.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-applications-debug.dylib: src/applications/CMakeFiles/libapplications-obj.dir/helper/on-off-helper.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-applications-debug.dylib: src/applications/CMakeFiles/libapplications-obj.dir/helper/packet-sink-helper.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-applications-debug.dylib: src/applications/CMakeFiles/libapplications-obj.dir/helper/three-gpp-http-helper.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-applications-debug.dylib: src/applications/CMakeFiles/libapplications-obj.dir/helper/udp-client-server-helper.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-applications-debug.dylib: src/applications/CMakeFiles/libapplications-obj.dir/helper/udp-echo-helper.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-applications-debug.dylib: src/applications/CMakeFiles/libapplications-obj.dir/model/application-packet-probe.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-applications-debug.dylib: src/applications/CMakeFiles/libapplications-obj.dir/model/bulk-send-application.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-applications-debug.dylib: src/applications/CMakeFiles/libapplications-obj.dir/model/onoff-application.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-applications-debug.dylib: src/applications/CMakeFiles/libapplications-obj.dir/model/packet-loss-counter.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-applications-debug.dylib: src/applications/CMakeFiles/libapplications-obj.dir/model/packet-sink.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-applications-debug.dylib: src/applications/CMakeFiles/libapplications-obj.dir/model/seq-ts-echo-header.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-applications-debug.dylib: src/applications/CMakeFiles/libapplications-obj.dir/model/seq-ts-header.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-applications-debug.dylib: src/applications/CMakeFiles/libapplications-obj.dir/model/seq-ts-size-header.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-applications-debug.dylib: src/applications/CMakeFiles/libapplications-obj.dir/model/three-gpp-http-client.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-applications-debug.dylib: src/applications/CMakeFiles/libapplications-obj.dir/model/three-gpp-http-header.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-applications-debug.dylib: src/applications/CMakeFiles/libapplications-obj.dir/model/three-gpp-http-server.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-applications-debug.dylib: src/applications/CMakeFiles/libapplications-obj.dir/model/three-gpp-http-variables.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-applications-debug.dylib: src/applications/CMakeFiles/libapplications-obj.dir/model/udp-client.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-applications-debug.dylib: src/applications/CMakeFiles/libapplications-obj.dir/model/udp-echo-client.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-applications-debug.dylib: src/applications/CMakeFiles/libapplications-obj.dir/model/udp-echo-server.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-applications-debug.dylib: src/applications/CMakeFiles/libapplications-obj.dir/model/udp-server.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-applications-debug.dylib: src/applications/CMakeFiles/libapplications-obj.dir/model/udp-trace-client.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-applications-debug.dylib: src/applications/CMakeFiles/libapplications.dir/build.make
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-applications-debug.dylib: /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/lib/libsqlite3.tbd
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-applications-debug.dylib: src/applications/CMakeFiles/libapplications.dir/link.txt
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/cmake-cache/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Linking CXX shared library /Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-applications-debug.dylib"
 	cd /Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/cmake-cache/src/applications && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/libapplications.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
-src/applications/CMakeFiles/libapplications.dir/build: /Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-applications-default.dylib
+src/applications/CMakeFiles/libapplications.dir/build: /Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-applications-debug.dylib
 .PHONY : src/applications/CMakeFiles/libapplications.dir/build
 
 src/applications/CMakeFiles/libapplications.dir/clean:

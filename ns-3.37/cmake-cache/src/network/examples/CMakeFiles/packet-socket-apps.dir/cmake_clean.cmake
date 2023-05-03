@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/src/network/examples/ns3.37-packet-socket-apps-default"
-  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/src/network/examples/ns3.37-packet-socket-apps-default.pdb"
+  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/src/network/examples/ns3.37-packet-socket-apps-debug"
+  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/src/network/examples/ns3.37-packet-socket-apps-debug.pdb"
   "CMakeFiles/packet-socket-apps.dir/packet-socket-apps.cc.o"
   "CMakeFiles/packet-socket-apps.dir/packet-socket-apps.cc.o.d"
 )

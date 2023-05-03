@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-olsr-test-default.dylib"
-  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-olsr-test-default.pdb"
+  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-olsr-test-debug.dylib"
+  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-olsr-test-debug.pdb"
   "CMakeFiles/libolsr-test.dir/test/bug780-test.cc.o"
   "CMakeFiles/libolsr-test.dir/test/bug780-test.cc.o.d"
   "CMakeFiles/libolsr-test.dir/test/hello-regression-test.cc.o"

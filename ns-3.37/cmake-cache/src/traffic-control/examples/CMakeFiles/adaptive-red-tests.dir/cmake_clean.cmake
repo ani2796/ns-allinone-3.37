@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/src/traffic-control/examples/ns3.37-adaptive-red-tests-default"
-  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/src/traffic-control/examples/ns3.37-adaptive-red-tests-default.pdb"
+  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/src/traffic-control/examples/ns3.37-adaptive-red-tests-debug"
+  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/src/traffic-control/examples/ns3.37-adaptive-red-tests-debug.pdb"
   "CMakeFiles/adaptive-red-tests.dir/adaptive-red-tests.cc.o"
   "CMakeFiles/adaptive-red-tests.dir/adaptive-red-tests.cc.o.d"
 )

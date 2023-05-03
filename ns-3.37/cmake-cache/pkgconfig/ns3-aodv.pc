@@ -9,5 +9,5 @@ Version: 3.37
 Requires:  ns3-internet ns3-wifi
 Requires.private: 
 Cflags: -I"${includedir}" -I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr; -I/Library/Developer/CommandLineTools/SDKs/MacOSX12.sdk/usr/include/libxml2 -I/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/include/python3.9
-Libs: -L"${libdir}" -lns3.37-aodv-default  -lns3.37-internet-default -lns3.37-wifi-default
+Libs: -L"${libdir}" -lns3.37-aodv-debug  -lns3.37-internet-debug -lns3.37-wifi-debug
 Libs.private: -L"${libdir}" 

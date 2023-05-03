@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/examples/tcp/ns3.37-star-default"
-  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/examples/tcp/ns3.37-star-default.pdb"
+  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/examples/tcp/ns3.37-star-debug"
+  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/examples/tcp/ns3.37-star-debug.pdb"
   "CMakeFiles/star.dir/star.cc.o"
   "CMakeFiles/star.dir/star.cc.o.d"
 )

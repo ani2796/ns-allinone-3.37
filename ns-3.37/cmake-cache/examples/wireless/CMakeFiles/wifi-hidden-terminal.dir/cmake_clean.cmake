@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/examples/wireless/ns3.37-wifi-hidden-terminal-default"
-  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/examples/wireless/ns3.37-wifi-hidden-terminal-default.pdb"
+  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/examples/wireless/ns3.37-wifi-hidden-terminal-debug"
+  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/examples/wireless/ns3.37-wifi-hidden-terminal-debug.pdb"
   "CMakeFiles/wifi-hidden-terminal.dir/wifi-hidden-terminal.cc.o"
   "CMakeFiles/wifi-hidden-terminal.dir/wifi-hidden-terminal.cc.o.d"
 )

@@ -89,28 +89,28 @@ libbuildings_EXTERNAL_OBJECTS = \
 "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/cmake-cache/src/buildings/CMakeFiles/libbuildings-obj.dir/model/random-walk-2d-outdoor-mobility-model.cc.o" \
 "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/cmake-cache/src/buildings/CMakeFiles/libbuildings-obj.dir/model/three-gpp-v2v-channel-condition-model.cc.o"
 
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-buildings-default.dylib: src/buildings/CMakeFiles/libbuildings-obj.dir/helper/building-allocator.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-buildings-default.dylib: src/buildings/CMakeFiles/libbuildings-obj.dir/helper/building-container.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-buildings-default.dylib: src/buildings/CMakeFiles/libbuildings-obj.dir/helper/building-position-allocator.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-buildings-default.dylib: src/buildings/CMakeFiles/libbuildings-obj.dir/helper/buildings-helper.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-buildings-default.dylib: src/buildings/CMakeFiles/libbuildings-obj.dir/model/building-list.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-buildings-default.dylib: src/buildings/CMakeFiles/libbuildings-obj.dir/model/building.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-buildings-default.dylib: src/buildings/CMakeFiles/libbuildings-obj.dir/model/buildings-channel-condition-model.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-buildings-default.dylib: src/buildings/CMakeFiles/libbuildings-obj.dir/model/buildings-propagation-loss-model.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-buildings-default.dylib: src/buildings/CMakeFiles/libbuildings-obj.dir/model/hybrid-buildings-propagation-loss-model.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-buildings-default.dylib: src/buildings/CMakeFiles/libbuildings-obj.dir/model/itu-r-1238-propagation-loss-model.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-buildings-default.dylib: src/buildings/CMakeFiles/libbuildings-obj.dir/model/mobility-building-info.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-buildings-default.dylib: src/buildings/CMakeFiles/libbuildings-obj.dir/model/oh-buildings-propagation-loss-model.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-buildings-default.dylib: src/buildings/CMakeFiles/libbuildings-obj.dir/model/random-walk-2d-outdoor-mobility-model.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-buildings-default.dylib: src/buildings/CMakeFiles/libbuildings-obj.dir/model/three-gpp-v2v-channel-condition-model.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-buildings-default.dylib: src/buildings/CMakeFiles/libbuildings.dir/build.make
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-buildings-default.dylib: /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/lib/libsqlite3.tbd
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-buildings-default.dylib: src/buildings/CMakeFiles/libbuildings.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/cmake-cache/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Linking CXX shared library /Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-buildings-default.dylib"
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-buildings-debug.dylib: src/buildings/CMakeFiles/libbuildings-obj.dir/helper/building-allocator.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-buildings-debug.dylib: src/buildings/CMakeFiles/libbuildings-obj.dir/helper/building-container.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-buildings-debug.dylib: src/buildings/CMakeFiles/libbuildings-obj.dir/helper/building-position-allocator.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-buildings-debug.dylib: src/buildings/CMakeFiles/libbuildings-obj.dir/helper/buildings-helper.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-buildings-debug.dylib: src/buildings/CMakeFiles/libbuildings-obj.dir/model/building-list.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-buildings-debug.dylib: src/buildings/CMakeFiles/libbuildings-obj.dir/model/building.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-buildings-debug.dylib: src/buildings/CMakeFiles/libbuildings-obj.dir/model/buildings-channel-condition-model.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-buildings-debug.dylib: src/buildings/CMakeFiles/libbuildings-obj.dir/model/buildings-propagation-loss-model.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-buildings-debug.dylib: src/buildings/CMakeFiles/libbuildings-obj.dir/model/hybrid-buildings-propagation-loss-model.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-buildings-debug.dylib: src/buildings/CMakeFiles/libbuildings-obj.dir/model/itu-r-1238-propagation-loss-model.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-buildings-debug.dylib: src/buildings/CMakeFiles/libbuildings-obj.dir/model/mobility-building-info.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-buildings-debug.dylib: src/buildings/CMakeFiles/libbuildings-obj.dir/model/oh-buildings-propagation-loss-model.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-buildings-debug.dylib: src/buildings/CMakeFiles/libbuildings-obj.dir/model/random-walk-2d-outdoor-mobility-model.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-buildings-debug.dylib: src/buildings/CMakeFiles/libbuildings-obj.dir/model/three-gpp-v2v-channel-condition-model.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-buildings-debug.dylib: src/buildings/CMakeFiles/libbuildings.dir/build.make
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-buildings-debug.dylib: /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/lib/libsqlite3.tbd
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-buildings-debug.dylib: src/buildings/CMakeFiles/libbuildings.dir/link.txt
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/cmake-cache/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Linking CXX shared library /Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-buildings-debug.dylib"
 	cd /Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/cmake-cache/src/buildings && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/libbuildings.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
-src/buildings/CMakeFiles/libbuildings.dir/build: /Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-buildings-default.dylib
+src/buildings/CMakeFiles/libbuildings.dir/build: /Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-buildings-debug.dylib
 .PHONY : src/buildings/CMakeFiles/libbuildings.dir/build
 
 src/buildings/CMakeFiles/libbuildings.dir/clean:

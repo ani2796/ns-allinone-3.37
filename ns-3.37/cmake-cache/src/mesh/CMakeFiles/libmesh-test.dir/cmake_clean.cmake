@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-mesh-test-default.dylib"
-  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-mesh-test-default.pdb"
+  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-mesh-test-debug.dylib"
+  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-mesh-test-debug.pdb"
   "CMakeFiles/libmesh-test.dir/test/dot11s/dot11s-test-suite.cc.o"
   "CMakeFiles/libmesh-test.dir/test/dot11s/dot11s-test-suite.cc.o.d"
   "CMakeFiles/libmesh-test.dir/test/dot11s/hwmp-proactive-regression.cc.o"

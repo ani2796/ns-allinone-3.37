@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/src/mobility/examples/ns3.37-main-random-topology-default"
-  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/src/mobility/examples/ns3.37-main-random-topology-default.pdb"
+  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/src/mobility/examples/ns3.37-main-random-topology-debug"
+  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/src/mobility/examples/ns3.37-main-random-topology-debug.pdb"
   "CMakeFiles/main-random-topology.dir/main-random-topology.cc.o"
   "CMakeFiles/main-random-topology.dir/main-random-topology.cc.o.d"
 )

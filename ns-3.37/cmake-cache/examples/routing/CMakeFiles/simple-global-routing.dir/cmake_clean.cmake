@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/examples/routing/ns3.37-simple-global-routing-default"
-  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/examples/routing/ns3.37-simple-global-routing-default.pdb"
+  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/examples/routing/ns3.37-simple-global-routing-debug"
+  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/examples/routing/ns3.37-simple-global-routing-debug.pdb"
   "CMakeFiles/simple-global-routing.dir/simple-global-routing.cc.o"
   "CMakeFiles/simple-global-routing.dir/simple-global-routing.cc.o.d"
 )

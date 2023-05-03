@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/examples/tcp/ns3.37-tcp-bbr-example-default"
-  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/examples/tcp/ns3.37-tcp-bbr-example-default.pdb"
+  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/examples/tcp/ns3.37-tcp-bbr-example-debug"
+  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/examples/tcp/ns3.37-tcp-bbr-example-debug.pdb"
   "CMakeFiles/tcp-bbr-example.dir/tcp-bbr-example.cc.o"
   "CMakeFiles/tcp-bbr-example.dir/tcp-bbr-example.cc.o.d"
 )

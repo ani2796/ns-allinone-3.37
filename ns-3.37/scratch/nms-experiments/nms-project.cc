@@ -24,23 +24,27 @@
 #include "ns3/applications-module.h"
 #include "ns3/flow-monitor-module.h"
 #include "ns3/gnuplot.h"
+#include <regex>
 
 using namespace ns3;
 
 NS_LOG_COMPONENT_DEFINE("NmsProject");
 
-int cubicFlows = 2;
-int bbrFlows = 2;
+int cubicFlows = 3;
+int bbrFlows = 4;
 int totalFlowNodes = 2*cubicFlows + 2*bbrFlows;
 
 auto prev = new uint32_t[totalFlowNodes];
 Time prevTime = Seconds(0);
 std::ofstream thr;
 
-std::string fileName = "CUBIC-vs-BBR-3";
+std::string fileName = "Experiment-1";
 std::string graphicsFileName        = fileName + ".png";
 std::string plotFileName            = fileName + ".plt";
 std::string plotTitle               = "CUBIC vs BBR 3";
+std::string dataFileName            = fileName + ".dat";
+std::string xmlFileName             = fileName + ".xml";
+
 Gnuplot plot(graphicsFileName);
 Gnuplot2dDataset* cubic_dataset = new Gnuplot2dDataset[cubicFlows];
 Gnuplot2dDataset* bbr_dataset = new Gnuplot2dDataset[bbrFlows];
@@ -51,19 +55,40 @@ TraceThroughput(Ptr<FlowMonitor> monitor, Ptr<Ipv4FlowClassifier> classifier)
 {
     // std::cout<<"Current time for TP measurement: " <<Simulator::Now().GetSeconds() <<std::endl;
     FlowMonitor::FlowStatsContainer stats = monitor->GetFlowStats();
-
     Time curTime = Simulator::Now();
-
     int i = 0;
+    uint32_t srcAddr, dstAddr;
+    int src[4], dst[4];
     
     for (auto itr = stats.begin (); itr != stats.end (); ++itr) {
         auto x = curTime.GetSeconds();
         Ipv4FlowClassifier::FiveTuple t = classifier->FindFlow(itr->first);
-        std::cout<<"Flow ID: " <<itr->first << " Src Addr " <<t.sourceAddress << " Dst Addr " <<t.destinationAddress <<std::endl;
-
+        
         auto y = 8 * (itr->second.txBytes - prev[i]) /
                (1000 * 1000 * (curTime.GetSeconds() - prevTime.GetSeconds()));
         
+        // Classifying flows by IP addr
+        // 10.1.x.x -> 10.2.x.x = Cubic flow
+        // 10.3.x.x -> 10.4.x.x = BBR flow
+        srcAddr = t.sourceAddress.Get();
+        dstAddr = t.destinationAddress.Get();
+
+        for(int i=3; i>=0; i--) {
+            src[3-i] = int((srcAddr >> (8*i)) & 0xFF);
+            dst[3-i] = int((dstAddr >> (8*i)) & 0xFF);
+        }
+
+        if(src[1] == 1 && dst[1] == 2) {
+            //std::cout<<"Flow ID: " <<itr->first << " Src Addr " <<t.sourceAddress << " Dst Addr " <<t.destinationAddress <<std::endl;
+            //std::cout<<"Flow is cubic"<<std::endl;
+            thr <<x << " Cubic" <<itr->first <<": " << y << std::endl;
+        }
+
+        if(src[1] == 3 && dst[1] == 4) {
+            //std::cout<<"Flow ID: " <<itr->first << " Src Addr " <<t.sourceAddress << " Dst Addr " <<t.destinationAddress <<std::endl;
+            //std::cout<<"Flow is bbr"<<std::endl;
+            thr <<x << " Bbr" <<itr->first <<": " << y << std::endl;
+        }
 
         if(itr->first == 3)
             cubic_dataset[0].Add(x, y);
@@ -71,7 +96,7 @@ TraceThroughput(Ptr<FlowMonitor> monitor, Ptr<Ipv4FlowClassifier> classifier)
             bbr_dataset[0].Add(x, y);
 
         std::cout<<x << " " <<itr->first <<": " << y << std::endl;
-        thr <<x << " " <<itr->first <<": " << y << std::endl;
+        
         prev[i++] = itr->second.txBytes;
     }
     
@@ -200,10 +225,10 @@ int main(int argc, char *argv[])
 
     NS_LOG_INFO("Assign IP Addresses.");
     
-    Ipv4InterfaceContainer* cubicSenderIpLink = new Ipv4InterfaceContainer[cubicFlows];
-    Ipv4InterfaceContainer* cubicReceiverIpLink = new Ipv4InterfaceContainer[cubicFlows];
-    Ipv4InterfaceContainer* bbrSenderIpLink = new Ipv4InterfaceContainer[bbrFlows];
-    Ipv4InterfaceContainer* bbrReceiverIpLink = new Ipv4InterfaceContainer[bbrFlows];
+    Ipv4InterfaceContainer cubicSenderIpLink[cubicFlows];
+    Ipv4InterfaceContainer cubicReceiverIpLink[cubicFlows];
+    Ipv4InterfaceContainer bbrSenderIpLink[bbrFlows];
+    Ipv4InterfaceContainer bbrReceiverIpLink[bbrFlows];
 
     Ipv4AddressHelper ipBottleneck;
     ipBottleneck.SetBase("10.5.1.0", "255.255.255.0");
@@ -236,8 +261,6 @@ int main(int argc, char *argv[])
         ipv4Helper.SetBase(ipAddress2, "255.255.255.0");
         bbrReceiverIpLink[i] = ipv4Helper.Assign(bbrReceiverDevices[i]);
     }
-    
-
 
     // ipv4.SetBase("10.1.1.0", "255.255.255.0");
     // Ipv4InterfaceContainer regLinkInterface0 = ipv4.Assign(d0d2);
@@ -340,7 +363,7 @@ int main(int argc, char *argv[])
     cubic_dataset[0].SetStyle(Gnuplot2dDataset::LINES_POINTS);
     bbr_dataset[0].SetStyle(Gnuplot2dDataset::LINES_POINTS);
 
-    thr.open("test-tcp-throughput-topology.dat");
+    thr.open(dataFileName);
     FlowMonitorHelper flowmon;
     Ptr<FlowMonitor> monitor = flowmon.InstallAll();
     // Ptr<FlowClassifier> classifier = flowmon.GetClassifier();
@@ -366,7 +389,7 @@ int main(int argc, char *argv[])
 
     //Ptr<PacketSink> sink1 = DynamicCast<PacketSink>(sinkApps.Get(0));
     //std::cout << "Total Bytes Received: " << sink1->GetTotalRx() << std::endl;
-    flowmon.SerializeToXmlFile("test-tcp-throughput-topology.xml", true, true);
+    flowmon.SerializeToXmlFile(xmlFileName, true, true);
     return 0;
 }
 

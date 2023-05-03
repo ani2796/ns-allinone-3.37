@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/src/traffic-control/examples/ns3.37-pie-example-default"
-  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/src/traffic-control/examples/ns3.37-pie-example-default.pdb"
+  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/src/traffic-control/examples/ns3.37-pie-example-debug"
+  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/src/traffic-control/examples/ns3.37-pie-example-debug.pdb"
   "CMakeFiles/pie-example.dir/pie-example.cc.o"
   "CMakeFiles/pie-example.dir/pie-example.cc.o.d"
 )

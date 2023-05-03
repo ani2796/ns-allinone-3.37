@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/src/stats/examples/ns3.37-gnuplot-aggregator-example-default"
-  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/src/stats/examples/ns3.37-gnuplot-aggregator-example-default.pdb"
+  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/src/stats/examples/ns3.37-gnuplot-aggregator-example-debug"
+  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/src/stats/examples/ns3.37-gnuplot-aggregator-example-debug.pdb"
   "CMakeFiles/gnuplot-aggregator-example.dir/gnuplot-aggregator-example.cc.o"
   "CMakeFiles/gnuplot-aggregator-example.dir/gnuplot-aggregator-example.cc.o.d"
 )

@@ -123,62 +123,62 @@ libwimax_EXTERNAL_OBJECTS = \
 "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/cmake-cache/src/wimax/CMakeFiles/libwimax-obj.dir/model/cs-parameters.cc.o" \
 "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/cmake-cache/src/wimax/CMakeFiles/libwimax-obj.dir/model/wimax-mac-to-mac-header.cc.o"
 
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wimax-default.dylib: src/wimax/CMakeFiles/libwimax-obj.dir/helper/wimax-helper.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wimax-default.dylib: src/wimax/CMakeFiles/libwimax-obj.dir/model/cid.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wimax-default.dylib: src/wimax/CMakeFiles/libwimax-obj.dir/model/cid-factory.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wimax-default.dylib: src/wimax/CMakeFiles/libwimax-obj.dir/model/wimax-net-device.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wimax-default.dylib: src/wimax/CMakeFiles/libwimax-obj.dir/model/bs-net-device.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wimax-default.dylib: src/wimax/CMakeFiles/libwimax-obj.dir/model/ss-net-device.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wimax-default.dylib: src/wimax/CMakeFiles/libwimax-obj.dir/model/wimax-mac-header.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wimax-default.dylib: src/wimax/CMakeFiles/libwimax-obj.dir/model/wimax-phy.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wimax-default.dylib: src/wimax/CMakeFiles/libwimax-obj.dir/model/wimax-channel.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wimax-default.dylib: src/wimax/CMakeFiles/libwimax-obj.dir/model/ofdm-downlink-frame-prefix.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wimax-default.dylib: src/wimax/CMakeFiles/libwimax-obj.dir/model/wimax-connection.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wimax-default.dylib: src/wimax/CMakeFiles/libwimax-obj.dir/model/ss-record.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wimax-default.dylib: src/wimax/CMakeFiles/libwimax-obj.dir/model/mac-messages.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wimax-default.dylib: src/wimax/CMakeFiles/libwimax-obj.dir/model/dl-mac-messages.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wimax-default.dylib: src/wimax/CMakeFiles/libwimax-obj.dir/model/ul-mac-messages.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wimax-default.dylib: src/wimax/CMakeFiles/libwimax-obj.dir/model/simple-ofdm-wimax-phy.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wimax-default.dylib: src/wimax/CMakeFiles/libwimax-obj.dir/model/simple-ofdm-wimax-channel.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wimax-default.dylib: src/wimax/CMakeFiles/libwimax-obj.dir/model/send-params.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wimax-default.dylib: src/wimax/CMakeFiles/libwimax-obj.dir/model/ss-manager.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wimax-default.dylib: src/wimax/CMakeFiles/libwimax-obj.dir/model/connection-manager.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wimax-default.dylib: src/wimax/CMakeFiles/libwimax-obj.dir/model/bs-uplink-scheduler.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wimax-default.dylib: src/wimax/CMakeFiles/libwimax-obj.dir/model/bs-uplink-scheduler-simple.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wimax-default.dylib: src/wimax/CMakeFiles/libwimax-obj.dir/model/bs-uplink-scheduler-mbqos.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wimax-default.dylib: src/wimax/CMakeFiles/libwimax-obj.dir/model/bs-uplink-scheduler-rtps.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wimax-default.dylib: src/wimax/CMakeFiles/libwimax-obj.dir/model/bs-scheduler.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wimax-default.dylib: src/wimax/CMakeFiles/libwimax-obj.dir/model/bs-scheduler-simple.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wimax-default.dylib: src/wimax/CMakeFiles/libwimax-obj.dir/model/bs-scheduler-rtps.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wimax-default.dylib: src/wimax/CMakeFiles/libwimax-obj.dir/model/wimax-mac-queue.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wimax-default.dylib: src/wimax/CMakeFiles/libwimax-obj.dir/model/burst-profile-manager.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wimax-default.dylib: src/wimax/CMakeFiles/libwimax-obj.dir/model/ss-scheduler.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wimax-default.dylib: src/wimax/CMakeFiles/libwimax-obj.dir/model/service-flow.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wimax-default.dylib: src/wimax/CMakeFiles/libwimax-obj.dir/model/service-flow-manager.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wimax-default.dylib: src/wimax/CMakeFiles/libwimax-obj.dir/model/service-flow-record.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wimax-default.dylib: src/wimax/CMakeFiles/libwimax-obj.dir/model/ss-link-manager.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wimax-default.dylib: src/wimax/CMakeFiles/libwimax-obj.dir/model/bs-link-manager.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wimax-default.dylib: src/wimax/CMakeFiles/libwimax-obj.dir/model/bandwidth-manager.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wimax-default.dylib: src/wimax/CMakeFiles/libwimax-obj.dir/model/crc8.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wimax-default.dylib: src/wimax/CMakeFiles/libwimax-obj.dir/model/ul-job.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wimax-default.dylib: src/wimax/CMakeFiles/libwimax-obj.dir/model/snr-to-block-error-rate-record.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wimax-default.dylib: src/wimax/CMakeFiles/libwimax-obj.dir/model/snr-to-block-error-rate-manager.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wimax-default.dylib: src/wimax/CMakeFiles/libwimax-obj.dir/model/simple-ofdm-send-param.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wimax-default.dylib: src/wimax/CMakeFiles/libwimax-obj.dir/model/ss-service-flow-manager.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wimax-default.dylib: src/wimax/CMakeFiles/libwimax-obj.dir/model/bs-service-flow-manager.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wimax-default.dylib: src/wimax/CMakeFiles/libwimax-obj.dir/model/ipcs-classifier.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wimax-default.dylib: src/wimax/CMakeFiles/libwimax-obj.dir/model/ipcs-classifier-record.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wimax-default.dylib: src/wimax/CMakeFiles/libwimax-obj.dir/model/wimax-tlv.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wimax-default.dylib: src/wimax/CMakeFiles/libwimax-obj.dir/model/cs-parameters.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wimax-default.dylib: src/wimax/CMakeFiles/libwimax-obj.dir/model/wimax-mac-to-mac-header.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wimax-default.dylib: src/wimax/CMakeFiles/libwimax.dir/build.make
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wimax-default.dylib: /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/lib/libsqlite3.tbd
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wimax-default.dylib: src/wimax/CMakeFiles/libwimax.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/cmake-cache/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Linking CXX shared library /Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wimax-default.dylib"
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wimax-debug.dylib: src/wimax/CMakeFiles/libwimax-obj.dir/helper/wimax-helper.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wimax-debug.dylib: src/wimax/CMakeFiles/libwimax-obj.dir/model/cid.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wimax-debug.dylib: src/wimax/CMakeFiles/libwimax-obj.dir/model/cid-factory.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wimax-debug.dylib: src/wimax/CMakeFiles/libwimax-obj.dir/model/wimax-net-device.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wimax-debug.dylib: src/wimax/CMakeFiles/libwimax-obj.dir/model/bs-net-device.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wimax-debug.dylib: src/wimax/CMakeFiles/libwimax-obj.dir/model/ss-net-device.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wimax-debug.dylib: src/wimax/CMakeFiles/libwimax-obj.dir/model/wimax-mac-header.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wimax-debug.dylib: src/wimax/CMakeFiles/libwimax-obj.dir/model/wimax-phy.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wimax-debug.dylib: src/wimax/CMakeFiles/libwimax-obj.dir/model/wimax-channel.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wimax-debug.dylib: src/wimax/CMakeFiles/libwimax-obj.dir/model/ofdm-downlink-frame-prefix.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wimax-debug.dylib: src/wimax/CMakeFiles/libwimax-obj.dir/model/wimax-connection.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wimax-debug.dylib: src/wimax/CMakeFiles/libwimax-obj.dir/model/ss-record.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wimax-debug.dylib: src/wimax/CMakeFiles/libwimax-obj.dir/model/mac-messages.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wimax-debug.dylib: src/wimax/CMakeFiles/libwimax-obj.dir/model/dl-mac-messages.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wimax-debug.dylib: src/wimax/CMakeFiles/libwimax-obj.dir/model/ul-mac-messages.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wimax-debug.dylib: src/wimax/CMakeFiles/libwimax-obj.dir/model/simple-ofdm-wimax-phy.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wimax-debug.dylib: src/wimax/CMakeFiles/libwimax-obj.dir/model/simple-ofdm-wimax-channel.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wimax-debug.dylib: src/wimax/CMakeFiles/libwimax-obj.dir/model/send-params.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wimax-debug.dylib: src/wimax/CMakeFiles/libwimax-obj.dir/model/ss-manager.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wimax-debug.dylib: src/wimax/CMakeFiles/libwimax-obj.dir/model/connection-manager.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wimax-debug.dylib: src/wimax/CMakeFiles/libwimax-obj.dir/model/bs-uplink-scheduler.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wimax-debug.dylib: src/wimax/CMakeFiles/libwimax-obj.dir/model/bs-uplink-scheduler-simple.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wimax-debug.dylib: src/wimax/CMakeFiles/libwimax-obj.dir/model/bs-uplink-scheduler-mbqos.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wimax-debug.dylib: src/wimax/CMakeFiles/libwimax-obj.dir/model/bs-uplink-scheduler-rtps.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wimax-debug.dylib: src/wimax/CMakeFiles/libwimax-obj.dir/model/bs-scheduler.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wimax-debug.dylib: src/wimax/CMakeFiles/libwimax-obj.dir/model/bs-scheduler-simple.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wimax-debug.dylib: src/wimax/CMakeFiles/libwimax-obj.dir/model/bs-scheduler-rtps.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wimax-debug.dylib: src/wimax/CMakeFiles/libwimax-obj.dir/model/wimax-mac-queue.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wimax-debug.dylib: src/wimax/CMakeFiles/libwimax-obj.dir/model/burst-profile-manager.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wimax-debug.dylib: src/wimax/CMakeFiles/libwimax-obj.dir/model/ss-scheduler.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wimax-debug.dylib: src/wimax/CMakeFiles/libwimax-obj.dir/model/service-flow.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wimax-debug.dylib: src/wimax/CMakeFiles/libwimax-obj.dir/model/service-flow-manager.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wimax-debug.dylib: src/wimax/CMakeFiles/libwimax-obj.dir/model/service-flow-record.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wimax-debug.dylib: src/wimax/CMakeFiles/libwimax-obj.dir/model/ss-link-manager.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wimax-debug.dylib: src/wimax/CMakeFiles/libwimax-obj.dir/model/bs-link-manager.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wimax-debug.dylib: src/wimax/CMakeFiles/libwimax-obj.dir/model/bandwidth-manager.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wimax-debug.dylib: src/wimax/CMakeFiles/libwimax-obj.dir/model/crc8.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wimax-debug.dylib: src/wimax/CMakeFiles/libwimax-obj.dir/model/ul-job.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wimax-debug.dylib: src/wimax/CMakeFiles/libwimax-obj.dir/model/snr-to-block-error-rate-record.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wimax-debug.dylib: src/wimax/CMakeFiles/libwimax-obj.dir/model/snr-to-block-error-rate-manager.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wimax-debug.dylib: src/wimax/CMakeFiles/libwimax-obj.dir/model/simple-ofdm-send-param.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wimax-debug.dylib: src/wimax/CMakeFiles/libwimax-obj.dir/model/ss-service-flow-manager.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wimax-debug.dylib: src/wimax/CMakeFiles/libwimax-obj.dir/model/bs-service-flow-manager.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wimax-debug.dylib: src/wimax/CMakeFiles/libwimax-obj.dir/model/ipcs-classifier.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wimax-debug.dylib: src/wimax/CMakeFiles/libwimax-obj.dir/model/ipcs-classifier-record.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wimax-debug.dylib: src/wimax/CMakeFiles/libwimax-obj.dir/model/wimax-tlv.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wimax-debug.dylib: src/wimax/CMakeFiles/libwimax-obj.dir/model/cs-parameters.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wimax-debug.dylib: src/wimax/CMakeFiles/libwimax-obj.dir/model/wimax-mac-to-mac-header.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wimax-debug.dylib: src/wimax/CMakeFiles/libwimax.dir/build.make
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wimax-debug.dylib: /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/lib/libsqlite3.tbd
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wimax-debug.dylib: src/wimax/CMakeFiles/libwimax.dir/link.txt
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/cmake-cache/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Linking CXX shared library /Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wimax-debug.dylib"
 	cd /Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/cmake-cache/src/wimax && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/libwimax.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
-src/wimax/CMakeFiles/libwimax.dir/build: /Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wimax-default.dylib
+src/wimax/CMakeFiles/libwimax.dir/build: /Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wimax-debug.dylib
 .PHONY : src/wimax/CMakeFiles/libwimax.dir/build
 
 src/wimax/CMakeFiles/libwimax.dir/clean:

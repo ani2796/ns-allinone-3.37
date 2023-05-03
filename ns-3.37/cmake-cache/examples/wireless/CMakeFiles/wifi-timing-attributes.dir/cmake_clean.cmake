@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/examples/wireless/ns3.37-wifi-timing-attributes-default"
-  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/examples/wireless/ns3.37-wifi-timing-attributes-default.pdb"
+  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/examples/wireless/ns3.37-wifi-timing-attributes-debug"
+  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/examples/wireless/ns3.37-wifi-timing-attributes-debug.pdb"
   "CMakeFiles/wifi-timing-attributes.dir/wifi-timing-attributes.cc.o"
   "CMakeFiles/wifi-timing-attributes.dir/wifi-timing-attributes.cc.o.d"
 )

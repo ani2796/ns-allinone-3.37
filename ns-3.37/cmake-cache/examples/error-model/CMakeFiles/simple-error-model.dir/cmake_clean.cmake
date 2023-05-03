@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/examples/error-model/ns3.37-simple-error-model-default"
-  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/examples/error-model/ns3.37-simple-error-model-default.pdb"
+  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/examples/error-model/ns3.37-simple-error-model-debug"
+  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/examples/error-model/ns3.37-simple-error-model-debug.pdb"
   "CMakeFiles/simple-error-model.dir/simple-error-model.cc.o"
   "CMakeFiles/simple-error-model.dir/simple-error-model.cc.o.d"
 )

@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-traffic-control-test-default.dylib"
-  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-traffic-control-test-default.pdb"
+  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-traffic-control-test-debug.dylib"
+  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-traffic-control-test-debug.pdb"
   "CMakeFiles/libtraffic-control-test.dir/test/adaptive-red-queue-disc-test-suite.cc.o"
   "CMakeFiles/libtraffic-control-test.dir/test/adaptive-red-queue-disc-test-suite.cc.o.d"
   "CMakeFiles/libtraffic-control-test.dir/test/cobalt-queue-disc-test-suite.cc.o"

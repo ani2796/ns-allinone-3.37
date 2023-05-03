@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/examples/wireless/ns3.37-wifi-simple-ht-hidden-stations-default"
-  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/examples/wireless/ns3.37-wifi-simple-ht-hidden-stations-default.pdb"
+  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/examples/wireless/ns3.37-wifi-simple-ht-hidden-stations-debug"
+  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/examples/wireless/ns3.37-wifi-simple-ht-hidden-stations-debug.pdb"
   "CMakeFiles/wifi-simple-ht-hidden-stations.dir/wifi-simple-ht-hidden-stations.cc.o"
   "CMakeFiles/wifi-simple-ht-hidden-stations.dir/wifi-simple-ht-hidden-stations.cc.o.d"
 )

@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/examples/energy/ns3.37-energy-model-with-harvesting-example-default"
-  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/examples/energy/ns3.37-energy-model-with-harvesting-example-default.pdb"
+  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/examples/energy/ns3.37-energy-model-with-harvesting-example-debug"
+  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/examples/energy/ns3.37-energy-model-with-harvesting-example-debug.pdb"
   "CMakeFiles/energy-model-with-harvesting-example.dir/energy-model-with-harvesting-example.cc.o"
   "CMakeFiles/energy-model-with-harvesting-example.dir/energy-model-with-harvesting-example.cc.o.d"
 )

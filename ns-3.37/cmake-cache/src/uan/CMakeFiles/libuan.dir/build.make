@@ -98,37 +98,37 @@ libuan_EXTERNAL_OBJECTS = \
 "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/cmake-cache/src/uan/CMakeFiles/libuan-obj.dir/model/uan-transducer.cc.o" \
 "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/cmake-cache/src/uan/CMakeFiles/libuan-obj.dir/model/uan-tx-mode.cc.o"
 
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-uan-default.dylib: src/uan/CMakeFiles/libuan-obj.dir/helper/acoustic-modem-energy-model-helper.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-uan-default.dylib: src/uan/CMakeFiles/libuan-obj.dir/helper/uan-helper.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-uan-default.dylib: src/uan/CMakeFiles/libuan-obj.dir/model/acoustic-modem-energy-model.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-uan-default.dylib: src/uan/CMakeFiles/libuan-obj.dir/model/uan-channel.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-uan-default.dylib: src/uan/CMakeFiles/libuan-obj.dir/model/uan-header-common.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-uan-default.dylib: src/uan/CMakeFiles/libuan-obj.dir/model/uan-header-rc.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-uan-default.dylib: src/uan/CMakeFiles/libuan-obj.dir/model/uan-mac-aloha.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-uan-default.dylib: src/uan/CMakeFiles/libuan-obj.dir/model/uan-mac-cw.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-uan-default.dylib: src/uan/CMakeFiles/libuan-obj.dir/model/uan-mac-rc-gw.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-uan-default.dylib: src/uan/CMakeFiles/libuan-obj.dir/model/uan-mac-rc.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-uan-default.dylib: src/uan/CMakeFiles/libuan-obj.dir/model/uan-mac.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-uan-default.dylib: src/uan/CMakeFiles/libuan-obj.dir/model/uan-net-device.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-uan-default.dylib: src/uan/CMakeFiles/libuan-obj.dir/model/uan-noise-model-default.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-uan-default.dylib: src/uan/CMakeFiles/libuan-obj.dir/model/uan-noise-model.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-uan-default.dylib: src/uan/CMakeFiles/libuan-obj.dir/model/uan-phy-dual.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-uan-default.dylib: src/uan/CMakeFiles/libuan-obj.dir/model/uan-phy-gen.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-uan-default.dylib: src/uan/CMakeFiles/libuan-obj.dir/model/uan-phy.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-uan-default.dylib: src/uan/CMakeFiles/libuan-obj.dir/model/uan-prop-model-ideal.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-uan-default.dylib: src/uan/CMakeFiles/libuan-obj.dir/model/uan-prop-model-thorp.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-uan-default.dylib: src/uan/CMakeFiles/libuan-obj.dir/model/uan-prop-model.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-uan-default.dylib: src/uan/CMakeFiles/libuan-obj.dir/model/uan-transducer-hd.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-uan-default.dylib: src/uan/CMakeFiles/libuan-obj.dir/model/uan-transducer.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-uan-default.dylib: src/uan/CMakeFiles/libuan-obj.dir/model/uan-tx-mode.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-uan-default.dylib: src/uan/CMakeFiles/libuan.dir/build.make
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-uan-default.dylib: /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/lib/libsqlite3.tbd
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-uan-default.dylib: src/uan/CMakeFiles/libuan.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/cmake-cache/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Linking CXX shared library /Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-uan-default.dylib"
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-uan-debug.dylib: src/uan/CMakeFiles/libuan-obj.dir/helper/acoustic-modem-energy-model-helper.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-uan-debug.dylib: src/uan/CMakeFiles/libuan-obj.dir/helper/uan-helper.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-uan-debug.dylib: src/uan/CMakeFiles/libuan-obj.dir/model/acoustic-modem-energy-model.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-uan-debug.dylib: src/uan/CMakeFiles/libuan-obj.dir/model/uan-channel.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-uan-debug.dylib: src/uan/CMakeFiles/libuan-obj.dir/model/uan-header-common.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-uan-debug.dylib: src/uan/CMakeFiles/libuan-obj.dir/model/uan-header-rc.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-uan-debug.dylib: src/uan/CMakeFiles/libuan-obj.dir/model/uan-mac-aloha.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-uan-debug.dylib: src/uan/CMakeFiles/libuan-obj.dir/model/uan-mac-cw.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-uan-debug.dylib: src/uan/CMakeFiles/libuan-obj.dir/model/uan-mac-rc-gw.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-uan-debug.dylib: src/uan/CMakeFiles/libuan-obj.dir/model/uan-mac-rc.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-uan-debug.dylib: src/uan/CMakeFiles/libuan-obj.dir/model/uan-mac.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-uan-debug.dylib: src/uan/CMakeFiles/libuan-obj.dir/model/uan-net-device.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-uan-debug.dylib: src/uan/CMakeFiles/libuan-obj.dir/model/uan-noise-model-default.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-uan-debug.dylib: src/uan/CMakeFiles/libuan-obj.dir/model/uan-noise-model.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-uan-debug.dylib: src/uan/CMakeFiles/libuan-obj.dir/model/uan-phy-dual.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-uan-debug.dylib: src/uan/CMakeFiles/libuan-obj.dir/model/uan-phy-gen.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-uan-debug.dylib: src/uan/CMakeFiles/libuan-obj.dir/model/uan-phy.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-uan-debug.dylib: src/uan/CMakeFiles/libuan-obj.dir/model/uan-prop-model-ideal.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-uan-debug.dylib: src/uan/CMakeFiles/libuan-obj.dir/model/uan-prop-model-thorp.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-uan-debug.dylib: src/uan/CMakeFiles/libuan-obj.dir/model/uan-prop-model.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-uan-debug.dylib: src/uan/CMakeFiles/libuan-obj.dir/model/uan-transducer-hd.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-uan-debug.dylib: src/uan/CMakeFiles/libuan-obj.dir/model/uan-transducer.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-uan-debug.dylib: src/uan/CMakeFiles/libuan-obj.dir/model/uan-tx-mode.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-uan-debug.dylib: src/uan/CMakeFiles/libuan.dir/build.make
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-uan-debug.dylib: /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/lib/libsqlite3.tbd
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-uan-debug.dylib: src/uan/CMakeFiles/libuan.dir/link.txt
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/cmake-cache/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Linking CXX shared library /Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-uan-debug.dylib"
 	cd /Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/cmake-cache/src/uan && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/libuan.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
-src/uan/CMakeFiles/libuan.dir/build: /Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-uan-default.dylib
+src/uan/CMakeFiles/libuan.dir/build: /Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-uan-debug.dylib
 .PHONY : src/uan/CMakeFiles/libuan.dir/build
 
 src/uan/CMakeFiles/libuan.dir/clean:

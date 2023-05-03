@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/src/network/examples/ns3.37-main-packet-tag-default"
-  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/src/network/examples/ns3.37-main-packet-tag-default.pdb"
+  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/src/network/examples/ns3.37-main-packet-tag-debug"
+  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/src/network/examples/ns3.37-main-packet-tag-debug.pdb"
   "CMakeFiles/main-packet-tag.dir/main-packet-tag.cc.o"
   "CMakeFiles/main-packet-tag.dir/main-packet-tag.cc.o.d"
 )

@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-sixlowpan-test-default.dylib"
-  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-sixlowpan-test-default.pdb"
+  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-sixlowpan-test-debug.dylib"
+  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-sixlowpan-test-debug.pdb"
   "CMakeFiles/libsixlowpan-test.dir/test/mock-net-device.cc.o"
   "CMakeFiles/libsixlowpan-test.dir/test/mock-net-device.cc.o.d"
   "CMakeFiles/libsixlowpan-test.dir/test/sixlowpan-examples-test-suite.cc.o"

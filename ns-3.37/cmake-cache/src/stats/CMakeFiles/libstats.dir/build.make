@@ -99,38 +99,38 @@ libstats_EXTERNAL_OBJECTS = \
 "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/cmake-cache/src/stats/CMakeFiles/libstats-obj.dir/model/uinteger-32-probe.cc.o" \
 "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/cmake-cache/src/stats/CMakeFiles/libstats-obj.dir/model/uinteger-8-probe.cc.o"
 
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-stats-default.dylib: src/stats/CMakeFiles/libstats-obj.dir/model/sqlite-data-output.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-stats-default.dylib: src/stats/CMakeFiles/libstats-obj.dir/model/sqlite-output.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-stats-default.dylib: src/stats/CMakeFiles/libstats-obj.dir/helper/file-helper.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-stats-default.dylib: src/stats/CMakeFiles/libstats-obj.dir/helper/gnuplot-helper.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-stats-default.dylib: src/stats/CMakeFiles/libstats-obj.dir/model/boolean-probe.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-stats-default.dylib: src/stats/CMakeFiles/libstats-obj.dir/model/basic-data-calculators.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-stats-default.dylib: src/stats/CMakeFiles/libstats-obj.dir/model/data-calculator.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-stats-default.dylib: src/stats/CMakeFiles/libstats-obj.dir/model/data-collection-object.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-stats-default.dylib: src/stats/CMakeFiles/libstats-obj.dir/model/data-collector.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-stats-default.dylib: src/stats/CMakeFiles/libstats-obj.dir/model/data-output-interface.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-stats-default.dylib: src/stats/CMakeFiles/libstats-obj.dir/model/double-probe.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-stats-default.dylib: src/stats/CMakeFiles/libstats-obj.dir/model/file-aggregator.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-stats-default.dylib: src/stats/CMakeFiles/libstats-obj.dir/model/get-wildcard-matches.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-stats-default.dylib: src/stats/CMakeFiles/libstats-obj.dir/model/gnuplot-aggregator.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-stats-default.dylib: src/stats/CMakeFiles/libstats-obj.dir/model/gnuplot.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-stats-default.dylib: src/stats/CMakeFiles/libstats-obj.dir/model/histogram.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-stats-default.dylib: src/stats/CMakeFiles/libstats-obj.dir/model/omnet-data-output.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-stats-default.dylib: src/stats/CMakeFiles/libstats-obj.dir/model/probe.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-stats-default.dylib: src/stats/CMakeFiles/libstats-obj.dir/model/time-data-calculators.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-stats-default.dylib: src/stats/CMakeFiles/libstats-obj.dir/model/time-probe.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-stats-default.dylib: src/stats/CMakeFiles/libstats-obj.dir/model/time-series-adaptor.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-stats-default.dylib: src/stats/CMakeFiles/libstats-obj.dir/model/uinteger-16-probe.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-stats-default.dylib: src/stats/CMakeFiles/libstats-obj.dir/model/uinteger-32-probe.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-stats-default.dylib: src/stats/CMakeFiles/libstats-obj.dir/model/uinteger-8-probe.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-stats-default.dylib: src/stats/CMakeFiles/libstats.dir/build.make
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-stats-default.dylib: /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/lib/libsqlite3.tbd
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-stats-default.dylib: src/stats/CMakeFiles/libstats.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/cmake-cache/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Linking CXX shared library /Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-stats-default.dylib"
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-stats-debug.dylib: src/stats/CMakeFiles/libstats-obj.dir/model/sqlite-data-output.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-stats-debug.dylib: src/stats/CMakeFiles/libstats-obj.dir/model/sqlite-output.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-stats-debug.dylib: src/stats/CMakeFiles/libstats-obj.dir/helper/file-helper.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-stats-debug.dylib: src/stats/CMakeFiles/libstats-obj.dir/helper/gnuplot-helper.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-stats-debug.dylib: src/stats/CMakeFiles/libstats-obj.dir/model/boolean-probe.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-stats-debug.dylib: src/stats/CMakeFiles/libstats-obj.dir/model/basic-data-calculators.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-stats-debug.dylib: src/stats/CMakeFiles/libstats-obj.dir/model/data-calculator.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-stats-debug.dylib: src/stats/CMakeFiles/libstats-obj.dir/model/data-collection-object.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-stats-debug.dylib: src/stats/CMakeFiles/libstats-obj.dir/model/data-collector.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-stats-debug.dylib: src/stats/CMakeFiles/libstats-obj.dir/model/data-output-interface.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-stats-debug.dylib: src/stats/CMakeFiles/libstats-obj.dir/model/double-probe.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-stats-debug.dylib: src/stats/CMakeFiles/libstats-obj.dir/model/file-aggregator.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-stats-debug.dylib: src/stats/CMakeFiles/libstats-obj.dir/model/get-wildcard-matches.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-stats-debug.dylib: src/stats/CMakeFiles/libstats-obj.dir/model/gnuplot-aggregator.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-stats-debug.dylib: src/stats/CMakeFiles/libstats-obj.dir/model/gnuplot.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-stats-debug.dylib: src/stats/CMakeFiles/libstats-obj.dir/model/histogram.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-stats-debug.dylib: src/stats/CMakeFiles/libstats-obj.dir/model/omnet-data-output.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-stats-debug.dylib: src/stats/CMakeFiles/libstats-obj.dir/model/probe.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-stats-debug.dylib: src/stats/CMakeFiles/libstats-obj.dir/model/time-data-calculators.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-stats-debug.dylib: src/stats/CMakeFiles/libstats-obj.dir/model/time-probe.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-stats-debug.dylib: src/stats/CMakeFiles/libstats-obj.dir/model/time-series-adaptor.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-stats-debug.dylib: src/stats/CMakeFiles/libstats-obj.dir/model/uinteger-16-probe.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-stats-debug.dylib: src/stats/CMakeFiles/libstats-obj.dir/model/uinteger-32-probe.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-stats-debug.dylib: src/stats/CMakeFiles/libstats-obj.dir/model/uinteger-8-probe.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-stats-debug.dylib: src/stats/CMakeFiles/libstats.dir/build.make
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-stats-debug.dylib: /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/lib/libsqlite3.tbd
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-stats-debug.dylib: src/stats/CMakeFiles/libstats.dir/link.txt
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/cmake-cache/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Linking CXX shared library /Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-stats-debug.dylib"
 	cd /Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/cmake-cache/src/stats && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/libstats.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
-src/stats/CMakeFiles/libstats.dir/build: /Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-stats-default.dylib
+src/stats/CMakeFiles/libstats.dir/build: /Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-stats-debug.dylib
 .PHONY : src/stats/CMakeFiles/libstats.dir/build
 
 src/stats/CMakeFiles/libstats.dir/clean:

@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/examples/traffic-control/ns3.37-queue-discs-benchmark-default"
-  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/examples/traffic-control/ns3.37-queue-discs-benchmark-default.pdb"
+  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/examples/traffic-control/ns3.37-queue-discs-benchmark-debug"
+  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/examples/traffic-control/ns3.37-queue-discs-benchmark-debug.pdb"
   "CMakeFiles/queue-discs-benchmark.dir/queue-discs-benchmark.cc.o"
   "CMakeFiles/queue-discs-benchmark.dir/queue-discs-benchmark.cc.o.d"
 )

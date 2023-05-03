@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/src/lte/examples/ns3.37-lena-deactivate-bearer-default"
-  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/src/lte/examples/ns3.37-lena-deactivate-bearer-default.pdb"
+  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/src/lte/examples/ns3.37-lena-deactivate-bearer-debug"
+  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/src/lte/examples/ns3.37-lena-deactivate-bearer-debug.pdb"
   "CMakeFiles/lena-deactivate-bearer.dir/lena-deactivate-bearer.cc.o"
   "CMakeFiles/lena-deactivate-bearer.dir/lena-deactivate-bearer.cc.o.d"
 )

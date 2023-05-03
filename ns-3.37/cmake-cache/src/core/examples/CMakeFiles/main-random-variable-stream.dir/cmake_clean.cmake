@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/src/core/examples/ns3.37-main-random-variable-stream-default"
-  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/src/core/examples/ns3.37-main-random-variable-stream-default.pdb"
+  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/src/core/examples/ns3.37-main-random-variable-stream-debug"
+  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/src/core/examples/ns3.37-main-random-variable-stream-debug.pdb"
   "CMakeFiles/main-random-variable-stream.dir/main-random-variable-stream.cc.o"
   "CMakeFiles/main-random-variable-stream.dir/main-random-variable-stream.cc.o.d"
 )

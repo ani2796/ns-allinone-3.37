@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/src/core/examples/ns3.37-main-ptr-default"
-  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/src/core/examples/ns3.37-main-ptr-default.pdb"
+  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/src/core/examples/ns3.37-main-ptr-debug"
+  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/src/core/examples/ns3.37-main-ptr-debug.pdb"
   "CMakeFiles/main-ptr.dir/main-ptr.cc.o"
   "CMakeFiles/main-ptr.dir/main-ptr.cc.o.d"
 )

@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wimax-test-default.dylib"
-  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wimax-test-default.pdb"
+  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wimax-test-debug.dylib"
+  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wimax-test-debug.pdb"
   "CMakeFiles/libwimax-test.dir/test/mac-messages-test.cc.o"
   "CMakeFiles/libwimax-test.dir/test/mac-messages-test.cc.o.d"
   "CMakeFiles/libwimax-test.dir/test/phy-test.cc.o"

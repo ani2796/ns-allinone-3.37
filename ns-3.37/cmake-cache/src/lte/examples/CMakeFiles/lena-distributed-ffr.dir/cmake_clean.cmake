@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/src/lte/examples/ns3.37-lena-distributed-ffr-default"
-  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/src/lte/examples/ns3.37-lena-distributed-ffr-default.pdb"
+  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/src/lte/examples/ns3.37-lena-distributed-ffr-debug"
+  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/src/lte/examples/ns3.37-lena-distributed-ffr-debug.pdb"
   "CMakeFiles/lena-distributed-ffr.dir/lena-distributed-ffr.cc.o"
   "CMakeFiles/lena-distributed-ffr.dir/lena-distributed-ffr.cc.o.d"
 )

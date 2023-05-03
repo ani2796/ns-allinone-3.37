@@ -262,25 +262,25 @@ liblr__wpan__test_OBJECTS = \
 # External object files for target liblr-wpan-test
 liblr__wpan__test_EXTERNAL_OBJECTS =
 
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-lr-wpan-test-default.dylib: src/lr-wpan/CMakeFiles/liblr-wpan-test.dir/test/lr-wpan-ack-test.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-lr-wpan-test-default.dylib: src/lr-wpan/CMakeFiles/liblr-wpan-test.dir/test/lr-wpan-cca-test.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-lr-wpan-test-default.dylib: src/lr-wpan/CMakeFiles/liblr-wpan-test.dir/test/lr-wpan-collision-test.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-lr-wpan-test-default.dylib: src/lr-wpan/CMakeFiles/liblr-wpan-test.dir/test/lr-wpan-ed-test.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-lr-wpan-test-default.dylib: src/lr-wpan/CMakeFiles/liblr-wpan-test.dir/test/lr-wpan-error-model-test.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-lr-wpan-test-default.dylib: src/lr-wpan/CMakeFiles/liblr-wpan-test.dir/test/lr-wpan-packet-test.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-lr-wpan-test-default.dylib: src/lr-wpan/CMakeFiles/liblr-wpan-test.dir/test/lr-wpan-pd-plme-sap-test.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-lr-wpan-test-default.dylib: src/lr-wpan/CMakeFiles/liblr-wpan-test.dir/test/lr-wpan-spectrum-value-helper-test.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-lr-wpan-test-default.dylib: src/lr-wpan/CMakeFiles/liblr-wpan-test.dir/test/lr-wpan-ifs-test.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-lr-wpan-test-default.dylib: src/lr-wpan/CMakeFiles/liblr-wpan-test.dir/test/lr-wpan-slotted-csmaca-test.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-lr-wpan-test-default.dylib: src/lr-wpan/CMakeFiles/liblr-wpan-test.dir/test/lr-wpan-mac-test.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-lr-wpan-test-default.dylib: src/lr-wpan/CMakeFiles/liblr-wpan-test.dir/build.make
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-lr-wpan-test-default.dylib: /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/lib/libsqlite3.tbd
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-lr-wpan-test-default.dylib: src/lr-wpan/CMakeFiles/liblr-wpan-test.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/cmake-cache/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Linking CXX shared library /Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-lr-wpan-test-default.dylib"
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-lr-wpan-test-debug.dylib: src/lr-wpan/CMakeFiles/liblr-wpan-test.dir/test/lr-wpan-ack-test.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-lr-wpan-test-debug.dylib: src/lr-wpan/CMakeFiles/liblr-wpan-test.dir/test/lr-wpan-cca-test.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-lr-wpan-test-debug.dylib: src/lr-wpan/CMakeFiles/liblr-wpan-test.dir/test/lr-wpan-collision-test.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-lr-wpan-test-debug.dylib: src/lr-wpan/CMakeFiles/liblr-wpan-test.dir/test/lr-wpan-ed-test.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-lr-wpan-test-debug.dylib: src/lr-wpan/CMakeFiles/liblr-wpan-test.dir/test/lr-wpan-error-model-test.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-lr-wpan-test-debug.dylib: src/lr-wpan/CMakeFiles/liblr-wpan-test.dir/test/lr-wpan-packet-test.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-lr-wpan-test-debug.dylib: src/lr-wpan/CMakeFiles/liblr-wpan-test.dir/test/lr-wpan-pd-plme-sap-test.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-lr-wpan-test-debug.dylib: src/lr-wpan/CMakeFiles/liblr-wpan-test.dir/test/lr-wpan-spectrum-value-helper-test.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-lr-wpan-test-debug.dylib: src/lr-wpan/CMakeFiles/liblr-wpan-test.dir/test/lr-wpan-ifs-test.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-lr-wpan-test-debug.dylib: src/lr-wpan/CMakeFiles/liblr-wpan-test.dir/test/lr-wpan-slotted-csmaca-test.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-lr-wpan-test-debug.dylib: src/lr-wpan/CMakeFiles/liblr-wpan-test.dir/test/lr-wpan-mac-test.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-lr-wpan-test-debug.dylib: src/lr-wpan/CMakeFiles/liblr-wpan-test.dir/build.make
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-lr-wpan-test-debug.dylib: /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/lib/libsqlite3.tbd
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-lr-wpan-test-debug.dylib: src/lr-wpan/CMakeFiles/liblr-wpan-test.dir/link.txt
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/cmake-cache/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Linking CXX shared library /Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-lr-wpan-test-debug.dylib"
 	cd /Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/cmake-cache/src/lr-wpan && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/liblr-wpan-test.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
-src/lr-wpan/CMakeFiles/liblr-wpan-test.dir/build: /Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-lr-wpan-test-default.dylib
+src/lr-wpan/CMakeFiles/liblr-wpan-test.dir/build: /Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-lr-wpan-test-debug.dylib
 .PHONY : src/lr-wpan/CMakeFiles/liblr-wpan-test.dir/build
 
 src/lr-wpan/CMakeFiles/liblr-wpan-test.dir/clean:

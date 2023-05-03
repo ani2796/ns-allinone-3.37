@@ -211,22 +211,22 @@ libmobility__test_OBJECTS = \
 # External object files for target libmobility-test
 libmobility__test_EXTERNAL_OBJECTS =
 
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-mobility-test-default.dylib: src/mobility/CMakeFiles/libmobility-test.dir/test/box-line-intersection-test.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-mobility-test-default.dylib: src/mobility/CMakeFiles/libmobility-test.dir/test/geo-to-cartesian-test.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-mobility-test-default.dylib: src/mobility/CMakeFiles/libmobility-test.dir/test/mobility-test-suite.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-mobility-test-default.dylib: src/mobility/CMakeFiles/libmobility-test.dir/test/mobility-trace-test-suite.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-mobility-test-default.dylib: src/mobility/CMakeFiles/libmobility-test.dir/test/ns2-mobility-helper-test-suite.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-mobility-test-default.dylib: src/mobility/CMakeFiles/libmobility-test.dir/test/rand-cart-around-geo-test.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-mobility-test-default.dylib: src/mobility/CMakeFiles/libmobility-test.dir/test/steady-state-random-waypoint-mobility-model-test.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-mobility-test-default.dylib: src/mobility/CMakeFiles/libmobility-test.dir/test/waypoint-mobility-model-test.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-mobility-test-default.dylib: src/mobility/CMakeFiles/libmobility-test.dir/build.make
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-mobility-test-default.dylib: /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/lib/libsqlite3.tbd
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-mobility-test-default.dylib: src/mobility/CMakeFiles/libmobility-test.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/cmake-cache/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Linking CXX shared library /Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-mobility-test-default.dylib"
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-mobility-test-debug.dylib: src/mobility/CMakeFiles/libmobility-test.dir/test/box-line-intersection-test.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-mobility-test-debug.dylib: src/mobility/CMakeFiles/libmobility-test.dir/test/geo-to-cartesian-test.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-mobility-test-debug.dylib: src/mobility/CMakeFiles/libmobility-test.dir/test/mobility-test-suite.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-mobility-test-debug.dylib: src/mobility/CMakeFiles/libmobility-test.dir/test/mobility-trace-test-suite.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-mobility-test-debug.dylib: src/mobility/CMakeFiles/libmobility-test.dir/test/ns2-mobility-helper-test-suite.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-mobility-test-debug.dylib: src/mobility/CMakeFiles/libmobility-test.dir/test/rand-cart-around-geo-test.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-mobility-test-debug.dylib: src/mobility/CMakeFiles/libmobility-test.dir/test/steady-state-random-waypoint-mobility-model-test.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-mobility-test-debug.dylib: src/mobility/CMakeFiles/libmobility-test.dir/test/waypoint-mobility-model-test.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-mobility-test-debug.dylib: src/mobility/CMakeFiles/libmobility-test.dir/build.make
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-mobility-test-debug.dylib: /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/lib/libsqlite3.tbd
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-mobility-test-debug.dylib: src/mobility/CMakeFiles/libmobility-test.dir/link.txt
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/cmake-cache/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Linking CXX shared library /Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-mobility-test-debug.dylib"
 	cd /Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/cmake-cache/src/mobility && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/libmobility-test.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
-src/mobility/CMakeFiles/libmobility-test.dir/build: /Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-mobility-test-default.dylib
+src/mobility/CMakeFiles/libmobility-test.dir/build: /Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-mobility-test-debug.dylib
 .PHONY : src/mobility/CMakeFiles/libmobility-test.dir/build
 
 src/mobility/CMakeFiles/libmobility-test.dir/clean:

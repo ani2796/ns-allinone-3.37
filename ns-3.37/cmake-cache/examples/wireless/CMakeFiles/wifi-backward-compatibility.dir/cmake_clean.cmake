@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/examples/wireless/ns3.37-wifi-backward-compatibility-default"
-  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/examples/wireless/ns3.37-wifi-backward-compatibility-default.pdb"
+  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/examples/wireless/ns3.37-wifi-backward-compatibility-debug"
+  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/examples/wireless/ns3.37-wifi-backward-compatibility-debug.pdb"
   "CMakeFiles/wifi-backward-compatibility.dir/wifi-backward-compatibility.cc.o"
   "CMakeFiles/wifi-backward-compatibility.dir/wifi-backward-compatibility.cc.o.d"
 )

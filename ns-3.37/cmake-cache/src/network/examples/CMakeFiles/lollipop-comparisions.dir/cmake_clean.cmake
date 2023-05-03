@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/src/network/examples/ns3.37-lollipop-comparisions-default"
-  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/src/network/examples/ns3.37-lollipop-comparisions-default.pdb"
+  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/src/network/examples/ns3.37-lollipop-comparisions-debug"
+  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/src/network/examples/ns3.37-lollipop-comparisions-debug.pdb"
   "CMakeFiles/lollipop-comparisions.dir/lollipop-comparisions.cc.o"
   "CMakeFiles/lollipop-comparisions.dir/lollipop-comparisions.cc.o.d"
 )

@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/src/core/examples/ns3.37-command-line-example-default"
-  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/src/core/examples/ns3.37-command-line-example-default.pdb"
+  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/src/core/examples/ns3.37-command-line-example-debug"
+  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/src/core/examples/ns3.37-command-line-example-debug.pdb"
   "CMakeFiles/command-line-example.dir/command-line-example.cc.o"
   "CMakeFiles/command-line-example.dir/command-line-example.cc.o.d"
 )

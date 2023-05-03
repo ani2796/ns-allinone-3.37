@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/src/netanim/examples/ns3.37-dumbbell-animation-default"
-  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/src/netanim/examples/ns3.37-dumbbell-animation-default.pdb"
+  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/src/netanim/examples/ns3.37-dumbbell-animation-debug"
+  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/src/netanim/examples/ns3.37-dumbbell-animation-debug.pdb"
   "CMakeFiles/dumbbell-animation.dir/dumbbell-animation.cc.o"
   "CMakeFiles/dumbbell-animation.dir/dumbbell-animation.cc.o.d"
 )

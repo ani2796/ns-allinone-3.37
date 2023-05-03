@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/examples/wireless/ns3.37-wifi-dsss-validation-default"
-  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/examples/wireless/ns3.37-wifi-dsss-validation-default.pdb"
+  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/examples/wireless/ns3.37-wifi-dsss-validation-debug"
+  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/examples/wireless/ns3.37-wifi-dsss-validation-debug.pdb"
   "CMakeFiles/wifi-dsss-validation.dir/wifi-dsss-validation.cc.o"
   "CMakeFiles/wifi-dsss-validation.dir/wifi-dsss-validation.cc.o.d"
 )

@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/src/network/examples/ns3.37-main-packet-header-default"
-  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/src/network/examples/ns3.37-main-packet-header-default.pdb"
+  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/src/network/examples/ns3.37-main-packet-header-debug"
+  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/src/network/examples/ns3.37-main-packet-header-debug.pdb"
   "CMakeFiles/main-packet-header.dir/main-packet-header.cc.o"
   "CMakeFiles/main-packet-header.dir/main-packet-header.cc.o.d"
 )

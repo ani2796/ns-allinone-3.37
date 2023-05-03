@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/src/buildings/examples/ns3.37-outdoor-group-mobility-example-default"
-  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/src/buildings/examples/ns3.37-outdoor-group-mobility-example-default.pdb"
+  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/src/buildings/examples/ns3.37-outdoor-group-mobility-example-debug"
+  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/src/buildings/examples/ns3.37-outdoor-group-mobility-example-debug.pdb"
   "CMakeFiles/outdoor-group-mobility-example.dir/outdoor-group-mobility-example.cc.o"
   "CMakeFiles/outdoor-group-mobility-example.dir/outdoor-group-mobility-example.cc.o.d"
 )

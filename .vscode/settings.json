@@ -1,6 +1,8 @@
 {
     "files.associations": {
         "iosfwd": "cpp",
-        "map": "cpp"
+        "map": "cpp",
+        "regex": "cpp",
+        "typeinfo": "cpp"
     }
 }

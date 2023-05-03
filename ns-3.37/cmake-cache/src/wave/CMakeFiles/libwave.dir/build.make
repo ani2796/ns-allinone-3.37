@@ -91,30 +91,30 @@ libwave_EXTERNAL_OBJECTS = \
 "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/cmake-cache/src/wave/CMakeFiles/libwave-obj.dir/model/wave-frame-exchange-manager.cc.o" \
 "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/cmake-cache/src/wave/CMakeFiles/libwave-obj.dir/model/wave-net-device.cc.o"
 
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wave-default.dylib: src/wave/CMakeFiles/libwave-obj.dir/helper/wave-bsm-helper.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wave-default.dylib: src/wave/CMakeFiles/libwave-obj.dir/helper/wave-bsm-stats.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wave-default.dylib: src/wave/CMakeFiles/libwave-obj.dir/helper/wave-helper.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wave-default.dylib: src/wave/CMakeFiles/libwave-obj.dir/helper/wave-mac-helper.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wave-default.dylib: src/wave/CMakeFiles/libwave-obj.dir/helper/wifi-80211p-helper.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wave-default.dylib: src/wave/CMakeFiles/libwave-obj.dir/model/bsm-application.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wave-default.dylib: src/wave/CMakeFiles/libwave-obj.dir/model/channel-coordinator.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wave-default.dylib: src/wave/CMakeFiles/libwave-obj.dir/model/channel-manager.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wave-default.dylib: src/wave/CMakeFiles/libwave-obj.dir/model/channel-scheduler.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wave-default.dylib: src/wave/CMakeFiles/libwave-obj.dir/model/default-channel-scheduler.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wave-default.dylib: src/wave/CMakeFiles/libwave-obj.dir/model/higher-tx-tag.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wave-default.dylib: src/wave/CMakeFiles/libwave-obj.dir/model/ocb-wifi-mac.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wave-default.dylib: src/wave/CMakeFiles/libwave-obj.dir/model/vendor-specific-action.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wave-default.dylib: src/wave/CMakeFiles/libwave-obj.dir/model/vsa-manager.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wave-default.dylib: src/wave/CMakeFiles/libwave-obj.dir/model/wave-frame-exchange-manager.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wave-default.dylib: src/wave/CMakeFiles/libwave-obj.dir/model/wave-net-device.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wave-default.dylib: src/wave/CMakeFiles/libwave.dir/build.make
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wave-default.dylib: /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/lib/libsqlite3.tbd
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wave-default.dylib: src/wave/CMakeFiles/libwave.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/cmake-cache/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Linking CXX shared library /Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wave-default.dylib"
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wave-debug.dylib: src/wave/CMakeFiles/libwave-obj.dir/helper/wave-bsm-helper.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wave-debug.dylib: src/wave/CMakeFiles/libwave-obj.dir/helper/wave-bsm-stats.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wave-debug.dylib: src/wave/CMakeFiles/libwave-obj.dir/helper/wave-helper.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wave-debug.dylib: src/wave/CMakeFiles/libwave-obj.dir/helper/wave-mac-helper.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wave-debug.dylib: src/wave/CMakeFiles/libwave-obj.dir/helper/wifi-80211p-helper.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wave-debug.dylib: src/wave/CMakeFiles/libwave-obj.dir/model/bsm-application.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wave-debug.dylib: src/wave/CMakeFiles/libwave-obj.dir/model/channel-coordinator.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wave-debug.dylib: src/wave/CMakeFiles/libwave-obj.dir/model/channel-manager.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wave-debug.dylib: src/wave/CMakeFiles/libwave-obj.dir/model/channel-scheduler.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wave-debug.dylib: src/wave/CMakeFiles/libwave-obj.dir/model/default-channel-scheduler.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wave-debug.dylib: src/wave/CMakeFiles/libwave-obj.dir/model/higher-tx-tag.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wave-debug.dylib: src/wave/CMakeFiles/libwave-obj.dir/model/ocb-wifi-mac.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wave-debug.dylib: src/wave/CMakeFiles/libwave-obj.dir/model/vendor-specific-action.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wave-debug.dylib: src/wave/CMakeFiles/libwave-obj.dir/model/vsa-manager.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wave-debug.dylib: src/wave/CMakeFiles/libwave-obj.dir/model/wave-frame-exchange-manager.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wave-debug.dylib: src/wave/CMakeFiles/libwave-obj.dir/model/wave-net-device.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wave-debug.dylib: src/wave/CMakeFiles/libwave.dir/build.make
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wave-debug.dylib: /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/lib/libsqlite3.tbd
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wave-debug.dylib: src/wave/CMakeFiles/libwave.dir/link.txt
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/cmake-cache/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Linking CXX shared library /Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wave-debug.dylib"
 	cd /Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/cmake-cache/src/wave && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/libwave.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
-src/wave/CMakeFiles/libwave.dir/build: /Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wave-default.dylib
+src/wave/CMakeFiles/libwave.dir/build: /Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wave-debug.dylib
 .PHONY : src/wave/CMakeFiles/libwave.dir/build
 
 src/wave/CMakeFiles/libwave.dir/clean:

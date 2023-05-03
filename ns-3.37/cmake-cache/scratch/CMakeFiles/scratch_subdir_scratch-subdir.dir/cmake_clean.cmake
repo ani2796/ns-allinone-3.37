@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/scratch/subdir/ns3.37-scratch-subdir-default"
-  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/scratch/subdir/ns3.37-scratch-subdir-default.pdb"
+  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/scratch/subdir/ns3.37-scratch-subdir-debug"
+  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/scratch/subdir/ns3.37-scratch-subdir-debug.pdb"
   "CMakeFiles/scratch_subdir_scratch-subdir.dir/subdir/scratch-subdir-additional-header.cc.o"
   "CMakeFiles/scratch_subdir_scratch-subdir.dir/subdir/scratch-subdir-additional-header.cc.o.d"
   "CMakeFiles/scratch_subdir_scratch-subdir.dir/subdir/scratch-subdir.cc.o"

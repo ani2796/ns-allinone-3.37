@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/examples/routing/ns3.37-global-injection-slash32-default"
-  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/examples/routing/ns3.37-global-injection-slash32-default.pdb"
+  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/examples/routing/ns3.37-global-injection-slash32-debug"
+  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/examples/routing/ns3.37-global-injection-slash32-debug.pdb"
   "CMakeFiles/global-injection-slash32.dir/global-injection-slash32.cc.o"
   "CMakeFiles/global-injection-slash32.dir/global-injection-slash32.cc.o.d"
 )

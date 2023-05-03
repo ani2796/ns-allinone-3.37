@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/src/wave/examples/ns3.37-wave-simple-80211p-default"
-  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/src/wave/examples/ns3.37-wave-simple-80211p-default.pdb"
+  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/src/wave/examples/ns3.37-wave-simple-80211p-debug"
+  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/src/wave/examples/ns3.37-wave-simple-80211p-debug.pdb"
   "CMakeFiles/wave-simple-80211p.dir/wave-simple-80211p.cc.o"
   "CMakeFiles/wave-simple-80211p.dir/wave-simple-80211p.cc.o.d"
 )

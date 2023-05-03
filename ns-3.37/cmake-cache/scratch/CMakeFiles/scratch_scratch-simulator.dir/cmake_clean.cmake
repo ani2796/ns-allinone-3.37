@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/scratch/ns3.37-scratch-simulator-default"
-  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/scratch/ns3.37-scratch-simulator-default.pdb"
+  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/scratch/ns3.37-scratch-simulator-debug"
+  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/scratch/ns3.37-scratch-simulator-debug.pdb"
   "CMakeFiles/scratch_scratch-simulator.dir/scratch-simulator.cc.o"
   "CMakeFiles/scratch_scratch-simulator.dir/scratch-simulator.cc.o.d"
 )

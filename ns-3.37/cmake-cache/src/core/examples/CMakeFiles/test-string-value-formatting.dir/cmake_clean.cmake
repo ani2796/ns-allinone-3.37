@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/src/core/examples/ns3.37-test-string-value-formatting-default"
-  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/src/core/examples/ns3.37-test-string-value-formatting-default.pdb"
+  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/src/core/examples/ns3.37-test-string-value-formatting-debug"
+  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/src/core/examples/ns3.37-test-string-value-formatting-debug.pdb"
   "CMakeFiles/test-string-value-formatting.dir/test-string-value-formatting.cc.o"
   "CMakeFiles/test-string-value-formatting.dir/test-string-value-formatting.cc.o.d"
 )

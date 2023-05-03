@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-point-to-point-test-default.dylib"
-  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-point-to-point-test-default.pdb"
+  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-point-to-point-test-debug.dylib"
+  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-point-to-point-test-debug.pdb"
   "CMakeFiles/libpoint-to-point-test.dir/test/point-to-point-test.cc.o"
   "CMakeFiles/libpoint-to-point-test.dir/test/point-to-point-test.cc.o.d"
 )

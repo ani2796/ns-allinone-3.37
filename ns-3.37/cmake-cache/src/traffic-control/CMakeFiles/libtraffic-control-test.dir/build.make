@@ -245,24 +245,24 @@ libtraffic__control__test_OBJECTS = \
 # External object files for target libtraffic-control-test
 libtraffic__control__test_EXTERNAL_OBJECTS =
 
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-traffic-control-test-default.dylib: src/traffic-control/CMakeFiles/libtraffic-control-test.dir/test/adaptive-red-queue-disc-test-suite.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-traffic-control-test-default.dylib: src/traffic-control/CMakeFiles/libtraffic-control-test.dir/test/cobalt-queue-disc-test-suite.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-traffic-control-test-default.dylib: src/traffic-control/CMakeFiles/libtraffic-control-test.dir/test/codel-queue-disc-test-suite.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-traffic-control-test-default.dylib: src/traffic-control/CMakeFiles/libtraffic-control-test.dir/test/fifo-queue-disc-test-suite.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-traffic-control-test-default.dylib: src/traffic-control/CMakeFiles/libtraffic-control-test.dir/test/pie-queue-disc-test-suite.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-traffic-control-test-default.dylib: src/traffic-control/CMakeFiles/libtraffic-control-test.dir/test/prio-queue-disc-test-suite.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-traffic-control-test-default.dylib: src/traffic-control/CMakeFiles/libtraffic-control-test.dir/test/queue-disc-traces-test-suite.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-traffic-control-test-default.dylib: src/traffic-control/CMakeFiles/libtraffic-control-test.dir/test/red-queue-disc-test-suite.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-traffic-control-test-default.dylib: src/traffic-control/CMakeFiles/libtraffic-control-test.dir/test/tbf-queue-disc-test-suite.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-traffic-control-test-default.dylib: src/traffic-control/CMakeFiles/libtraffic-control-test.dir/test/tc-flow-control-test-suite.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-traffic-control-test-default.dylib: src/traffic-control/CMakeFiles/libtraffic-control-test.dir/build.make
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-traffic-control-test-default.dylib: /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/lib/libsqlite3.tbd
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-traffic-control-test-default.dylib: src/traffic-control/CMakeFiles/libtraffic-control-test.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/cmake-cache/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Linking CXX shared library /Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-traffic-control-test-default.dylib"
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-traffic-control-test-debug.dylib: src/traffic-control/CMakeFiles/libtraffic-control-test.dir/test/adaptive-red-queue-disc-test-suite.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-traffic-control-test-debug.dylib: src/traffic-control/CMakeFiles/libtraffic-control-test.dir/test/cobalt-queue-disc-test-suite.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-traffic-control-test-debug.dylib: src/traffic-control/CMakeFiles/libtraffic-control-test.dir/test/codel-queue-disc-test-suite.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-traffic-control-test-debug.dylib: src/traffic-control/CMakeFiles/libtraffic-control-test.dir/test/fifo-queue-disc-test-suite.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-traffic-control-test-debug.dylib: src/traffic-control/CMakeFiles/libtraffic-control-test.dir/test/pie-queue-disc-test-suite.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-traffic-control-test-debug.dylib: src/traffic-control/CMakeFiles/libtraffic-control-test.dir/test/prio-queue-disc-test-suite.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-traffic-control-test-debug.dylib: src/traffic-control/CMakeFiles/libtraffic-control-test.dir/test/queue-disc-traces-test-suite.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-traffic-control-test-debug.dylib: src/traffic-control/CMakeFiles/libtraffic-control-test.dir/test/red-queue-disc-test-suite.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-traffic-control-test-debug.dylib: src/traffic-control/CMakeFiles/libtraffic-control-test.dir/test/tbf-queue-disc-test-suite.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-traffic-control-test-debug.dylib: src/traffic-control/CMakeFiles/libtraffic-control-test.dir/test/tc-flow-control-test-suite.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-traffic-control-test-debug.dylib: src/traffic-control/CMakeFiles/libtraffic-control-test.dir/build.make
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-traffic-control-test-debug.dylib: /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/lib/libsqlite3.tbd
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-traffic-control-test-debug.dylib: src/traffic-control/CMakeFiles/libtraffic-control-test.dir/link.txt
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/cmake-cache/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Linking CXX shared library /Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-traffic-control-test-debug.dylib"
 	cd /Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/cmake-cache/src/traffic-control && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/libtraffic-control-test.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
-src/traffic-control/CMakeFiles/libtraffic-control-test.dir/build: /Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-traffic-control-test-default.dylib
+src/traffic-control/CMakeFiles/libtraffic-control-test.dir/build: /Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-traffic-control-test-debug.dylib
 .PHONY : src/traffic-control/CMakeFiles/libtraffic-control-test.dir/build
 
 src/traffic-control/CMakeFiles/libtraffic-control-test.dir/clean:

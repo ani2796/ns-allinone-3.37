@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/examples/realtime/ns3.37-realtime-udp-echo-default"
-  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/examples/realtime/ns3.37-realtime-udp-echo-default.pdb"
+  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/examples/realtime/ns3.37-realtime-udp-echo-debug"
+  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/examples/realtime/ns3.37-realtime-udp-echo-debug.pdb"
   "CMakeFiles/realtime-udp-echo.dir/realtime-udp-echo.cc.o"
   "CMakeFiles/realtime-udp-echo.dir/realtime-udp-echo.cc.o.d"
 )

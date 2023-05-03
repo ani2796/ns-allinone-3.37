@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/examples/routing/ns3.37-mixed-global-routing-default"
-  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/examples/routing/ns3.37-mixed-global-routing-default.pdb"
+  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/examples/routing/ns3.37-mixed-global-routing-debug"
+  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/examples/routing/ns3.37-mixed-global-routing-debug.pdb"
   "CMakeFiles/mixed-global-routing.dir/mixed-global-routing.cc.o"
   "CMakeFiles/mixed-global-routing.dir/mixed-global-routing.cc.o.d"
 )

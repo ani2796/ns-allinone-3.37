@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-nix-vector-routing-test-default.dylib"
-  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-nix-vector-routing-test-default.pdb"
+  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-nix-vector-routing-test-debug.dylib"
+  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-nix-vector-routing-test-debug.pdb"
   "CMakeFiles/libnix-vector-routing-test.dir/test/nix-test.cc.o"
   "CMakeFiles/libnix-vector-routing-test.dir/test/nix-test.cc.o.d"
 )

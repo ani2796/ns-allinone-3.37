@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/src/wave/examples/ns3.37-vanet-routing-compare-default"
-  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/src/wave/examples/ns3.37-vanet-routing-compare-default.pdb"
+  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/src/wave/examples/ns3.37-vanet-routing-compare-debug"
+  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/src/wave/examples/ns3.37-vanet-routing-compare-debug.pdb"
   "CMakeFiles/vanet-routing-compare.dir/vanet-routing-compare.cc.o"
   "CMakeFiles/vanet-routing-compare.dir/vanet-routing-compare.cc.o.d"
 )

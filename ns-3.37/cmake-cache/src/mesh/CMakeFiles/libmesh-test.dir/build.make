@@ -262,25 +262,25 @@ libmesh__test_OBJECTS = \
 # External object files for target libmesh-test
 libmesh__test_EXTERNAL_OBJECTS =
 
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-mesh-test-default.dylib: src/mesh/CMakeFiles/libmesh-test.dir/test/dot11s/dot11s-test-suite.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-mesh-test-default.dylib: src/mesh/CMakeFiles/libmesh-test.dir/test/dot11s/hwmp-proactive-regression.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-mesh-test-default.dylib: src/mesh/CMakeFiles/libmesh-test.dir/test/dot11s/hwmp-reactive-regression.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-mesh-test-default.dylib: src/mesh/CMakeFiles/libmesh-test.dir/test/dot11s/hwmp-simplest-regression.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-mesh-test-default.dylib: src/mesh/CMakeFiles/libmesh-test.dir/test/dot11s/hwmp-target-flags-regression.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-mesh-test-default.dylib: src/mesh/CMakeFiles/libmesh-test.dir/test/dot11s/pmp-regression.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-mesh-test-default.dylib: src/mesh/CMakeFiles/libmesh-test.dir/test/dot11s/regression.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-mesh-test-default.dylib: src/mesh/CMakeFiles/libmesh-test.dir/test/flame/flame-regression.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-mesh-test-default.dylib: src/mesh/CMakeFiles/libmesh-test.dir/test/flame/flame-test-suite.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-mesh-test-default.dylib: src/mesh/CMakeFiles/libmesh-test.dir/test/flame/regression.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-mesh-test-default.dylib: src/mesh/CMakeFiles/libmesh-test.dir/test/mesh-information-element-vector-test-suite.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-mesh-test-default.dylib: src/mesh/CMakeFiles/libmesh-test.dir/build.make
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-mesh-test-default.dylib: /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/lib/libsqlite3.tbd
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-mesh-test-default.dylib: src/mesh/CMakeFiles/libmesh-test.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/cmake-cache/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Linking CXX shared library /Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-mesh-test-default.dylib"
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-mesh-test-debug.dylib: src/mesh/CMakeFiles/libmesh-test.dir/test/dot11s/dot11s-test-suite.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-mesh-test-debug.dylib: src/mesh/CMakeFiles/libmesh-test.dir/test/dot11s/hwmp-proactive-regression.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-mesh-test-debug.dylib: src/mesh/CMakeFiles/libmesh-test.dir/test/dot11s/hwmp-reactive-regression.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-mesh-test-debug.dylib: src/mesh/CMakeFiles/libmesh-test.dir/test/dot11s/hwmp-simplest-regression.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-mesh-test-debug.dylib: src/mesh/CMakeFiles/libmesh-test.dir/test/dot11s/hwmp-target-flags-regression.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-mesh-test-debug.dylib: src/mesh/CMakeFiles/libmesh-test.dir/test/dot11s/pmp-regression.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-mesh-test-debug.dylib: src/mesh/CMakeFiles/libmesh-test.dir/test/dot11s/regression.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-mesh-test-debug.dylib: src/mesh/CMakeFiles/libmesh-test.dir/test/flame/flame-regression.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-mesh-test-debug.dylib: src/mesh/CMakeFiles/libmesh-test.dir/test/flame/flame-test-suite.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-mesh-test-debug.dylib: src/mesh/CMakeFiles/libmesh-test.dir/test/flame/regression.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-mesh-test-debug.dylib: src/mesh/CMakeFiles/libmesh-test.dir/test/mesh-information-element-vector-test-suite.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-mesh-test-debug.dylib: src/mesh/CMakeFiles/libmesh-test.dir/build.make
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-mesh-test-debug.dylib: /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/lib/libsqlite3.tbd
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-mesh-test-debug.dylib: src/mesh/CMakeFiles/libmesh-test.dir/link.txt
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/cmake-cache/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Linking CXX shared library /Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-mesh-test-debug.dylib"
 	cd /Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/cmake-cache/src/mesh && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/libmesh-test.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
-src/mesh/CMakeFiles/libmesh-test.dir/build: /Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-mesh-test-default.dylib
+src/mesh/CMakeFiles/libmesh-test.dir/build: /Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-mesh-test-debug.dylib
 .PHONY : src/mesh/CMakeFiles/libmesh-test.dir/build
 
 src/mesh/CMakeFiles/libmesh-test.dir/clean:

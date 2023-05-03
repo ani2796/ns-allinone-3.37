@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/examples/traffic-control/ns3.37-red-vs-nlred-default"
-  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/examples/traffic-control/ns3.37-red-vs-nlred-default.pdb"
+  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/examples/traffic-control/ns3.37-red-vs-nlred-debug"
+  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/examples/traffic-control/ns3.37-red-vs-nlred-debug.pdb"
   "CMakeFiles/red-vs-nlred.dir/red-vs-nlred.cc.o"
   "CMakeFiles/red-vs-nlred.dir/red-vs-nlred.cc.o.d"
 )

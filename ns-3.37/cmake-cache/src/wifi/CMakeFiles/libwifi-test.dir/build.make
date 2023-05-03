@@ -466,37 +466,37 @@ libwifi__test_OBJECTS = \
 # External object files for target libwifi-test
 libwifi__test_EXTERNAL_OBJECTS =
 
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wifi-test-default.dylib: src/wifi/CMakeFiles/libwifi-test.dir/test/block-ack-test-suite.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wifi-test-default.dylib: src/wifi/CMakeFiles/libwifi-test.dir/test/channel-access-manager-test.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wifi-test-default.dylib: src/wifi/CMakeFiles/libwifi-test.dir/test/inter-bss-test-suite.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wifi-test-default.dylib: src/wifi/CMakeFiles/libwifi-test.dir/test/power-rate-adaptation-test.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wifi-test-default.dylib: src/wifi/CMakeFiles/libwifi-test.dir/test/spectrum-wifi-phy-test.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wifi-test-default.dylib: src/wifi/CMakeFiles/libwifi-test.dir/test/tx-duration-test.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wifi-test-default.dylib: src/wifi/CMakeFiles/libwifi-test.dir/test/wifi-aggregation-test.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wifi-test-default.dylib: src/wifi/CMakeFiles/libwifi-test.dir/test/wifi-dynamic-bw-op-test.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wifi-test-default.dylib: src/wifi/CMakeFiles/libwifi-test.dir/test/wifi-eht-info-elems-test.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wifi-test-default.dylib: src/wifi/CMakeFiles/libwifi-test.dir/test/wifi-error-rate-models-test.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wifi-test-default.dylib: src/wifi/CMakeFiles/libwifi-test.dir/test/wifi-ie-fragment-test.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wifi-test-default.dylib: src/wifi/CMakeFiles/libwifi-test.dir/test/wifi-mac-ofdma-test.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wifi-test-default.dylib: src/wifi/CMakeFiles/libwifi-test.dir/test/wifi-mac-queue-test.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wifi-test-default.dylib: src/wifi/CMakeFiles/libwifi-test.dir/test/wifi-mlo-test.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wifi-test-default.dylib: src/wifi/CMakeFiles/libwifi-test.dir/test/wifi-phy-ofdma-test.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wifi-test-default.dylib: src/wifi/CMakeFiles/libwifi-test.dir/test/wifi-phy-reception-test.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wifi-test-default.dylib: src/wifi/CMakeFiles/libwifi-test.dir/test/wifi-phy-thresholds-test.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wifi-test-default.dylib: src/wifi/CMakeFiles/libwifi-test.dir/test/wifi-primary-channels-test.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wifi-test-default.dylib: src/wifi/CMakeFiles/libwifi-test.dir/test/wifi-channel-switching-test.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wifi-test-default.dylib: src/wifi/CMakeFiles/libwifi-test.dir/test/wifi-test.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wifi-test-default.dylib: src/wifi/CMakeFiles/libwifi-test.dir/test/wifi-transmit-mask-test.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wifi-test-default.dylib: src/wifi/CMakeFiles/libwifi-test.dir/test/wifi-txop-test.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wifi-test-default.dylib: src/wifi/CMakeFiles/libwifi-test.dir/test/wifi-phy-cca-test.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wifi-test-default.dylib: src/wifi/CMakeFiles/libwifi-test.dir/build.make
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wifi-test-default.dylib: /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/lib/libsqlite3.tbd
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wifi-test-default.dylib: src/wifi/CMakeFiles/libwifi-test.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/cmake-cache/CMakeFiles --progress-num=$(CMAKE_PROGRESS_24) "Linking CXX shared library /Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wifi-test-default.dylib"
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wifi-test-debug.dylib: src/wifi/CMakeFiles/libwifi-test.dir/test/block-ack-test-suite.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wifi-test-debug.dylib: src/wifi/CMakeFiles/libwifi-test.dir/test/channel-access-manager-test.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wifi-test-debug.dylib: src/wifi/CMakeFiles/libwifi-test.dir/test/inter-bss-test-suite.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wifi-test-debug.dylib: src/wifi/CMakeFiles/libwifi-test.dir/test/power-rate-adaptation-test.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wifi-test-debug.dylib: src/wifi/CMakeFiles/libwifi-test.dir/test/spectrum-wifi-phy-test.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wifi-test-debug.dylib: src/wifi/CMakeFiles/libwifi-test.dir/test/tx-duration-test.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wifi-test-debug.dylib: src/wifi/CMakeFiles/libwifi-test.dir/test/wifi-aggregation-test.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wifi-test-debug.dylib: src/wifi/CMakeFiles/libwifi-test.dir/test/wifi-dynamic-bw-op-test.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wifi-test-debug.dylib: src/wifi/CMakeFiles/libwifi-test.dir/test/wifi-eht-info-elems-test.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wifi-test-debug.dylib: src/wifi/CMakeFiles/libwifi-test.dir/test/wifi-error-rate-models-test.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wifi-test-debug.dylib: src/wifi/CMakeFiles/libwifi-test.dir/test/wifi-ie-fragment-test.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wifi-test-debug.dylib: src/wifi/CMakeFiles/libwifi-test.dir/test/wifi-mac-ofdma-test.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wifi-test-debug.dylib: src/wifi/CMakeFiles/libwifi-test.dir/test/wifi-mac-queue-test.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wifi-test-debug.dylib: src/wifi/CMakeFiles/libwifi-test.dir/test/wifi-mlo-test.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wifi-test-debug.dylib: src/wifi/CMakeFiles/libwifi-test.dir/test/wifi-phy-ofdma-test.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wifi-test-debug.dylib: src/wifi/CMakeFiles/libwifi-test.dir/test/wifi-phy-reception-test.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wifi-test-debug.dylib: src/wifi/CMakeFiles/libwifi-test.dir/test/wifi-phy-thresholds-test.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wifi-test-debug.dylib: src/wifi/CMakeFiles/libwifi-test.dir/test/wifi-primary-channels-test.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wifi-test-debug.dylib: src/wifi/CMakeFiles/libwifi-test.dir/test/wifi-channel-switching-test.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wifi-test-debug.dylib: src/wifi/CMakeFiles/libwifi-test.dir/test/wifi-test.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wifi-test-debug.dylib: src/wifi/CMakeFiles/libwifi-test.dir/test/wifi-transmit-mask-test.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wifi-test-debug.dylib: src/wifi/CMakeFiles/libwifi-test.dir/test/wifi-txop-test.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wifi-test-debug.dylib: src/wifi/CMakeFiles/libwifi-test.dir/test/wifi-phy-cca-test.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wifi-test-debug.dylib: src/wifi/CMakeFiles/libwifi-test.dir/build.make
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wifi-test-debug.dylib: /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/lib/libsqlite3.tbd
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wifi-test-debug.dylib: src/wifi/CMakeFiles/libwifi-test.dir/link.txt
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/cmake-cache/CMakeFiles --progress-num=$(CMAKE_PROGRESS_24) "Linking CXX shared library /Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wifi-test-debug.dylib"
 	cd /Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/cmake-cache/src/wifi && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/libwifi-test.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
-src/wifi/CMakeFiles/libwifi-test.dir/build: /Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wifi-test-default.dylib
+src/wifi/CMakeFiles/libwifi-test.dir/build: /Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wifi-test-debug.dylib
 .PHONY : src/wifi/CMakeFiles/libwifi-test.dir/build
 
 src/wifi/CMakeFiles/libwifi-test.dir/clean:

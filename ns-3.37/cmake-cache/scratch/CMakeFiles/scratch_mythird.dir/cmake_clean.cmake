@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/scratch/ns3.37-mythird-default"
-  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/scratch/ns3.37-mythird-default.pdb"
+  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/scratch/ns3.37-mythird-debug"
+  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/scratch/ns3.37-mythird-debug.pdb"
   "CMakeFiles/scratch_mythird.dir/mythird.cc.o"
   "CMakeFiles/scratch_mythird.dir/mythird.cc.o.d"
 )

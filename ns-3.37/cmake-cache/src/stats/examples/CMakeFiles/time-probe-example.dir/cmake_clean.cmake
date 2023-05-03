@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/src/stats/examples/ns3.37-time-probe-example-default"
-  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/src/stats/examples/ns3.37-time-probe-example-default.pdb"
+  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/src/stats/examples/ns3.37-time-probe-example-debug"
+  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/src/stats/examples/ns3.37-time-probe-example-debug.pdb"
   "CMakeFiles/time-probe-example.dir/time-probe-example.cc.o"
   "CMakeFiles/time-probe-example.dir/time-probe-example.cc.o.d"
 )

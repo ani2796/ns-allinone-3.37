@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/examples/ipv6/ns3.37-radvd-two-prefix-default"
-  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/examples/ipv6/ns3.37-radvd-two-prefix-default.pdb"
+  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/examples/ipv6/ns3.37-radvd-two-prefix-debug"
+  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/examples/ipv6/ns3.37-radvd-two-prefix-debug.pdb"
   "CMakeFiles/radvd-two-prefix.dir/radvd-two-prefix.cc.o"
   "CMakeFiles/radvd-two-prefix.dir/radvd-two-prefix.cc.o.d"
 )

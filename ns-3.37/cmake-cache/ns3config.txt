@@ -1,5 +1,5 @@
 ---- Summary of optional ns-3 features:
-Build profile                 : default
+Build profile                 : debug
 Build directory               : /Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build
 Build version embedding       : OFF (not requested)
 BRITE Integration             : [31mOFF (missing dependency)[0m

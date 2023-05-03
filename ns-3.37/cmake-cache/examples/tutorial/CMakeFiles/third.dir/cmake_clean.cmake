@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/examples/tutorial/ns3.37-third-default"
-  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/examples/tutorial/ns3.37-third-default.pdb"
+  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/examples/tutorial/ns3.37-third-debug"
+  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/examples/tutorial/ns3.37-third-debug.pdb"
   "CMakeFiles/third.dir/third.cc.o"
   "CMakeFiles/third.dir/third.cc.o.d"
 )

@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/src/lte/examples/ns3.37-lena-simple-epc-backhaul-default"
-  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/src/lte/examples/ns3.37-lena-simple-epc-backhaul-default.pdb"
+  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/src/lte/examples/ns3.37-lena-simple-epc-backhaul-debug"
+  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/src/lte/examples/ns3.37-lena-simple-epc-backhaul-debug.pdb"
   "CMakeFiles/lena-simple-epc-backhaul.dir/lena-simple-epc-backhaul.cc.o"
   "CMakeFiles/lena-simple-epc-backhaul.dir/lena-simple-epc-backhaul.cc.o.d"
 )

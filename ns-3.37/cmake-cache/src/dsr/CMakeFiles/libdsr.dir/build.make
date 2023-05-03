@@ -89,28 +89,28 @@ libdsr_EXTERNAL_OBJECTS = \
 "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/cmake-cache/src/dsr/CMakeFiles/libdsr-obj.dir/model/dsr-rreq-table.cc.o" \
 "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/cmake-cache/src/dsr/CMakeFiles/libdsr-obj.dir/model/dsr-rsendbuff.cc.o"
 
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-dsr-default.dylib: src/dsr/CMakeFiles/libdsr-obj.dir/helper/dsr-helper.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-dsr-default.dylib: src/dsr/CMakeFiles/libdsr-obj.dir/helper/dsr-main-helper.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-dsr-default.dylib: src/dsr/CMakeFiles/libdsr-obj.dir/model/dsr-errorbuff.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-dsr-default.dylib: src/dsr/CMakeFiles/libdsr-obj.dir/model/dsr-fs-header.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-dsr-default.dylib: src/dsr/CMakeFiles/libdsr-obj.dir/model/dsr-gratuitous-reply-table.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-dsr-default.dylib: src/dsr/CMakeFiles/libdsr-obj.dir/model/dsr-maintain-buff.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-dsr-default.dylib: src/dsr/CMakeFiles/libdsr-obj.dir/model/dsr-network-queue.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-dsr-default.dylib: src/dsr/CMakeFiles/libdsr-obj.dir/model/dsr-option-header.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-dsr-default.dylib: src/dsr/CMakeFiles/libdsr-obj.dir/model/dsr-options.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-dsr-default.dylib: src/dsr/CMakeFiles/libdsr-obj.dir/model/dsr-passive-buff.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-dsr-default.dylib: src/dsr/CMakeFiles/libdsr-obj.dir/model/dsr-rcache.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-dsr-default.dylib: src/dsr/CMakeFiles/libdsr-obj.dir/model/dsr-routing.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-dsr-default.dylib: src/dsr/CMakeFiles/libdsr-obj.dir/model/dsr-rreq-table.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-dsr-default.dylib: src/dsr/CMakeFiles/libdsr-obj.dir/model/dsr-rsendbuff.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-dsr-default.dylib: src/dsr/CMakeFiles/libdsr.dir/build.make
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-dsr-default.dylib: /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/lib/libsqlite3.tbd
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-dsr-default.dylib: src/dsr/CMakeFiles/libdsr.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/cmake-cache/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Linking CXX shared library /Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-dsr-default.dylib"
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-dsr-debug.dylib: src/dsr/CMakeFiles/libdsr-obj.dir/helper/dsr-helper.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-dsr-debug.dylib: src/dsr/CMakeFiles/libdsr-obj.dir/helper/dsr-main-helper.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-dsr-debug.dylib: src/dsr/CMakeFiles/libdsr-obj.dir/model/dsr-errorbuff.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-dsr-debug.dylib: src/dsr/CMakeFiles/libdsr-obj.dir/model/dsr-fs-header.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-dsr-debug.dylib: src/dsr/CMakeFiles/libdsr-obj.dir/model/dsr-gratuitous-reply-table.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-dsr-debug.dylib: src/dsr/CMakeFiles/libdsr-obj.dir/model/dsr-maintain-buff.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-dsr-debug.dylib: src/dsr/CMakeFiles/libdsr-obj.dir/model/dsr-network-queue.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-dsr-debug.dylib: src/dsr/CMakeFiles/libdsr-obj.dir/model/dsr-option-header.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-dsr-debug.dylib: src/dsr/CMakeFiles/libdsr-obj.dir/model/dsr-options.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-dsr-debug.dylib: src/dsr/CMakeFiles/libdsr-obj.dir/model/dsr-passive-buff.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-dsr-debug.dylib: src/dsr/CMakeFiles/libdsr-obj.dir/model/dsr-rcache.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-dsr-debug.dylib: src/dsr/CMakeFiles/libdsr-obj.dir/model/dsr-routing.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-dsr-debug.dylib: src/dsr/CMakeFiles/libdsr-obj.dir/model/dsr-rreq-table.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-dsr-debug.dylib: src/dsr/CMakeFiles/libdsr-obj.dir/model/dsr-rsendbuff.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-dsr-debug.dylib: src/dsr/CMakeFiles/libdsr.dir/build.make
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-dsr-debug.dylib: /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/lib/libsqlite3.tbd
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-dsr-debug.dylib: src/dsr/CMakeFiles/libdsr.dir/link.txt
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/cmake-cache/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Linking CXX shared library /Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-dsr-debug.dylib"
 	cd /Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/cmake-cache/src/dsr && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/libdsr.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
-src/dsr/CMakeFiles/libdsr.dir/build: /Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-dsr-default.dylib
+src/dsr/CMakeFiles/libdsr.dir/build: /Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-dsr-debug.dylib
 .PHONY : src/dsr/CMakeFiles/libdsr.dir/build
 
 src/dsr/CMakeFiles/libdsr.dir/clean:

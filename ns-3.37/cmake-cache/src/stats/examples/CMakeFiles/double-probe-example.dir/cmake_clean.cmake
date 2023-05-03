@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/src/stats/examples/ns3.37-double-probe-example-default"
-  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/src/stats/examples/ns3.37-double-probe-example-default.pdb"
+  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/src/stats/examples/ns3.37-double-probe-example-debug"
+  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/src/stats/examples/ns3.37-double-probe-example-debug.pdb"
   "CMakeFiles/double-probe-example.dir/double-probe-example.cc.o"
   "CMakeFiles/double-probe-example.dir/double-probe-example.cc.o.d"
 )

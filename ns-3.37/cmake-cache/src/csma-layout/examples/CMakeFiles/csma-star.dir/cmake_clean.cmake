@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/src/csma-layout/examples/ns3.37-csma-star-default"
-  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/src/csma-layout/examples/ns3.37-csma-star-default.pdb"
+  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/src/csma-layout/examples/ns3.37-csma-star-debug"
+  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/src/csma-layout/examples/ns3.37-csma-star-debug.pdb"
   "CMakeFiles/csma-star.dir/csma-star.cc.o"
   "CMakeFiles/csma-star.dir/csma-star.cc.o.d"
 )

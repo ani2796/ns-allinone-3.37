@@ -108,47 +108,47 @@ libmesh_EXTERNAL_OBJECTS = \
 "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/cmake-cache/src/mesh/CMakeFiles/libmesh-obj.dir/model/mesh-wifi-beacon.cc.o" \
 "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/cmake-cache/src/mesh/CMakeFiles/libmesh-obj.dir/model/mesh-wifi-interface-mac.cc.o"
 
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-mesh-default.dylib: src/mesh/CMakeFiles/libmesh-obj.dir/helper/dot11s/dot11s-installer.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-mesh-default.dylib: src/mesh/CMakeFiles/libmesh-obj.dir/helper/flame/flame-installer.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-mesh-default.dylib: src/mesh/CMakeFiles/libmesh-obj.dir/helper/mesh-helper.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-mesh-default.dylib: src/mesh/CMakeFiles/libmesh-obj.dir/helper/mesh-stack-installer.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-mesh-default.dylib: src/mesh/CMakeFiles/libmesh-obj.dir/model/dot11s/airtime-metric.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-mesh-default.dylib: src/mesh/CMakeFiles/libmesh-obj.dir/model/dot11s/dot11s-mac-header.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-mesh-default.dylib: src/mesh/CMakeFiles/libmesh-obj.dir/model/dot11s/hwmp-protocol-mac.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-mesh-default.dylib: src/mesh/CMakeFiles/libmesh-obj.dir/model/dot11s/hwmp-protocol.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-mesh-default.dylib: src/mesh/CMakeFiles/libmesh-obj.dir/model/dot11s/hwmp-rtable.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-mesh-default.dylib: src/mesh/CMakeFiles/libmesh-obj.dir/model/dot11s/hwmp-tag.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-mesh-default.dylib: src/mesh/CMakeFiles/libmesh-obj.dir/model/dot11s/ie-dot11s-beacon-timing.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-mesh-default.dylib: src/mesh/CMakeFiles/libmesh-obj.dir/model/dot11s/ie-dot11s-configuration.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-mesh-default.dylib: src/mesh/CMakeFiles/libmesh-obj.dir/model/dot11s/ie-dot11s-id.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-mesh-default.dylib: src/mesh/CMakeFiles/libmesh-obj.dir/model/dot11s/ie-dot11s-metric-report.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-mesh-default.dylib: src/mesh/CMakeFiles/libmesh-obj.dir/model/dot11s/ie-dot11s-peer-management.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-mesh-default.dylib: src/mesh/CMakeFiles/libmesh-obj.dir/model/dot11s/ie-dot11s-peering-protocol.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-mesh-default.dylib: src/mesh/CMakeFiles/libmesh-obj.dir/model/dot11s/ie-dot11s-perr.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-mesh-default.dylib: src/mesh/CMakeFiles/libmesh-obj.dir/model/dot11s/ie-dot11s-prep.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-mesh-default.dylib: src/mesh/CMakeFiles/libmesh-obj.dir/model/dot11s/ie-dot11s-preq.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-mesh-default.dylib: src/mesh/CMakeFiles/libmesh-obj.dir/model/dot11s/ie-dot11s-rann.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-mesh-default.dylib: src/mesh/CMakeFiles/libmesh-obj.dir/model/dot11s/peer-link-frame.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-mesh-default.dylib: src/mesh/CMakeFiles/libmesh-obj.dir/model/dot11s/peer-link.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-mesh-default.dylib: src/mesh/CMakeFiles/libmesh-obj.dir/model/dot11s/peer-management-protocol-mac.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-mesh-default.dylib: src/mesh/CMakeFiles/libmesh-obj.dir/model/dot11s/peer-management-protocol.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-mesh-default.dylib: src/mesh/CMakeFiles/libmesh-obj.dir/model/flame/flame-header.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-mesh-default.dylib: src/mesh/CMakeFiles/libmesh-obj.dir/model/flame/flame-protocol-mac.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-mesh-default.dylib: src/mesh/CMakeFiles/libmesh-obj.dir/model/flame/flame-protocol.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-mesh-default.dylib: src/mesh/CMakeFiles/libmesh-obj.dir/model/flame/flame-rtable.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-mesh-default.dylib: src/mesh/CMakeFiles/libmesh-obj.dir/model/mesh-information-element-vector.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-mesh-default.dylib: src/mesh/CMakeFiles/libmesh-obj.dir/model/mesh-l2-routing-protocol.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-mesh-default.dylib: src/mesh/CMakeFiles/libmesh-obj.dir/model/mesh-point-device.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-mesh-default.dylib: src/mesh/CMakeFiles/libmesh-obj.dir/model/mesh-wifi-beacon.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-mesh-default.dylib: src/mesh/CMakeFiles/libmesh-obj.dir/model/mesh-wifi-interface-mac.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-mesh-default.dylib: src/mesh/CMakeFiles/libmesh.dir/build.make
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-mesh-default.dylib: /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/lib/libsqlite3.tbd
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-mesh-default.dylib: src/mesh/CMakeFiles/libmesh.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/cmake-cache/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Linking CXX shared library /Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-mesh-default.dylib"
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-mesh-debug.dylib: src/mesh/CMakeFiles/libmesh-obj.dir/helper/dot11s/dot11s-installer.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-mesh-debug.dylib: src/mesh/CMakeFiles/libmesh-obj.dir/helper/flame/flame-installer.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-mesh-debug.dylib: src/mesh/CMakeFiles/libmesh-obj.dir/helper/mesh-helper.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-mesh-debug.dylib: src/mesh/CMakeFiles/libmesh-obj.dir/helper/mesh-stack-installer.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-mesh-debug.dylib: src/mesh/CMakeFiles/libmesh-obj.dir/model/dot11s/airtime-metric.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-mesh-debug.dylib: src/mesh/CMakeFiles/libmesh-obj.dir/model/dot11s/dot11s-mac-header.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-mesh-debug.dylib: src/mesh/CMakeFiles/libmesh-obj.dir/model/dot11s/hwmp-protocol-mac.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-mesh-debug.dylib: src/mesh/CMakeFiles/libmesh-obj.dir/model/dot11s/hwmp-protocol.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-mesh-debug.dylib: src/mesh/CMakeFiles/libmesh-obj.dir/model/dot11s/hwmp-rtable.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-mesh-debug.dylib: src/mesh/CMakeFiles/libmesh-obj.dir/model/dot11s/hwmp-tag.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-mesh-debug.dylib: src/mesh/CMakeFiles/libmesh-obj.dir/model/dot11s/ie-dot11s-beacon-timing.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-mesh-debug.dylib: src/mesh/CMakeFiles/libmesh-obj.dir/model/dot11s/ie-dot11s-configuration.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-mesh-debug.dylib: src/mesh/CMakeFiles/libmesh-obj.dir/model/dot11s/ie-dot11s-id.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-mesh-debug.dylib: src/mesh/CMakeFiles/libmesh-obj.dir/model/dot11s/ie-dot11s-metric-report.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-mesh-debug.dylib: src/mesh/CMakeFiles/libmesh-obj.dir/model/dot11s/ie-dot11s-peer-management.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-mesh-debug.dylib: src/mesh/CMakeFiles/libmesh-obj.dir/model/dot11s/ie-dot11s-peering-protocol.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-mesh-debug.dylib: src/mesh/CMakeFiles/libmesh-obj.dir/model/dot11s/ie-dot11s-perr.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-mesh-debug.dylib: src/mesh/CMakeFiles/libmesh-obj.dir/model/dot11s/ie-dot11s-prep.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-mesh-debug.dylib: src/mesh/CMakeFiles/libmesh-obj.dir/model/dot11s/ie-dot11s-preq.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-mesh-debug.dylib: src/mesh/CMakeFiles/libmesh-obj.dir/model/dot11s/ie-dot11s-rann.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-mesh-debug.dylib: src/mesh/CMakeFiles/libmesh-obj.dir/model/dot11s/peer-link-frame.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-mesh-debug.dylib: src/mesh/CMakeFiles/libmesh-obj.dir/model/dot11s/peer-link.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-mesh-debug.dylib: src/mesh/CMakeFiles/libmesh-obj.dir/model/dot11s/peer-management-protocol-mac.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-mesh-debug.dylib: src/mesh/CMakeFiles/libmesh-obj.dir/model/dot11s/peer-management-protocol.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-mesh-debug.dylib: src/mesh/CMakeFiles/libmesh-obj.dir/model/flame/flame-header.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-mesh-debug.dylib: src/mesh/CMakeFiles/libmesh-obj.dir/model/flame/flame-protocol-mac.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-mesh-debug.dylib: src/mesh/CMakeFiles/libmesh-obj.dir/model/flame/flame-protocol.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-mesh-debug.dylib: src/mesh/CMakeFiles/libmesh-obj.dir/model/flame/flame-rtable.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-mesh-debug.dylib: src/mesh/CMakeFiles/libmesh-obj.dir/model/mesh-information-element-vector.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-mesh-debug.dylib: src/mesh/CMakeFiles/libmesh-obj.dir/model/mesh-l2-routing-protocol.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-mesh-debug.dylib: src/mesh/CMakeFiles/libmesh-obj.dir/model/mesh-point-device.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-mesh-debug.dylib: src/mesh/CMakeFiles/libmesh-obj.dir/model/mesh-wifi-beacon.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-mesh-debug.dylib: src/mesh/CMakeFiles/libmesh-obj.dir/model/mesh-wifi-interface-mac.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-mesh-debug.dylib: src/mesh/CMakeFiles/libmesh.dir/build.make
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-mesh-debug.dylib: /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/lib/libsqlite3.tbd
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-mesh-debug.dylib: src/mesh/CMakeFiles/libmesh.dir/link.txt
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/cmake-cache/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Linking CXX shared library /Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-mesh-debug.dylib"
 	cd /Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/cmake-cache/src/mesh && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/libmesh.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
-src/mesh/CMakeFiles/libmesh.dir/build: /Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-mesh-default.dylib
+src/mesh/CMakeFiles/libmesh.dir/build: /Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-mesh-debug.dylib
 .PHONY : src/mesh/CMakeFiles/libmesh.dir/build
 
 src/mesh/CMakeFiles/libmesh.dir/clean:

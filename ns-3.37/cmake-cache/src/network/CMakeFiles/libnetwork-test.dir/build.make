@@ -296,27 +296,27 @@ libnetwork__test_OBJECTS = \
 # External object files for target libnetwork-test
 libnetwork__test_EXTERNAL_OBJECTS =
 
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-network-test-default.dylib: src/network/CMakeFiles/libnetwork-test.dir/test/bit-serializer-test.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-network-test-default.dylib: src/network/CMakeFiles/libnetwork-test.dir/test/buffer-test.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-network-test-default.dylib: src/network/CMakeFiles/libnetwork-test.dir/test/drop-tail-queue-test-suite.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-network-test-default.dylib: src/network/CMakeFiles/libnetwork-test.dir/test/error-model-test-suite.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-network-test-default.dylib: src/network/CMakeFiles/libnetwork-test.dir/test/ipv6-address-test-suite.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-network-test-default.dylib: src/network/CMakeFiles/libnetwork-test.dir/test/lollipop-counter-test.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-network-test-default.dylib: src/network/CMakeFiles/libnetwork-test.dir/test/packet-metadata-test.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-network-test-default.dylib: src/network/CMakeFiles/libnetwork-test.dir/test/packet-socket-apps-test-suite.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-network-test-default.dylib: src/network/CMakeFiles/libnetwork-test.dir/test/packet-test-suite.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-network-test-default.dylib: src/network/CMakeFiles/libnetwork-test.dir/test/packetbb-test-suite.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-network-test-default.dylib: src/network/CMakeFiles/libnetwork-test.dir/test/pcap-file-test-suite.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-network-test-default.dylib: src/network/CMakeFiles/libnetwork-test.dir/test/sequence-number-test-suite.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-network-test-default.dylib: src/network/CMakeFiles/libnetwork-test.dir/test/test-data-rate.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-network-test-default.dylib: src/network/CMakeFiles/libnetwork-test.dir/build.make
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-network-test-default.dylib: /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/lib/libsqlite3.tbd
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-network-test-default.dylib: src/network/CMakeFiles/libnetwork-test.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/cmake-cache/CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Linking CXX shared library /Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-network-test-default.dylib"
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-network-test-debug.dylib: src/network/CMakeFiles/libnetwork-test.dir/test/bit-serializer-test.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-network-test-debug.dylib: src/network/CMakeFiles/libnetwork-test.dir/test/buffer-test.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-network-test-debug.dylib: src/network/CMakeFiles/libnetwork-test.dir/test/drop-tail-queue-test-suite.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-network-test-debug.dylib: src/network/CMakeFiles/libnetwork-test.dir/test/error-model-test-suite.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-network-test-debug.dylib: src/network/CMakeFiles/libnetwork-test.dir/test/ipv6-address-test-suite.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-network-test-debug.dylib: src/network/CMakeFiles/libnetwork-test.dir/test/lollipop-counter-test.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-network-test-debug.dylib: src/network/CMakeFiles/libnetwork-test.dir/test/packet-metadata-test.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-network-test-debug.dylib: src/network/CMakeFiles/libnetwork-test.dir/test/packet-socket-apps-test-suite.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-network-test-debug.dylib: src/network/CMakeFiles/libnetwork-test.dir/test/packet-test-suite.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-network-test-debug.dylib: src/network/CMakeFiles/libnetwork-test.dir/test/packetbb-test-suite.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-network-test-debug.dylib: src/network/CMakeFiles/libnetwork-test.dir/test/pcap-file-test-suite.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-network-test-debug.dylib: src/network/CMakeFiles/libnetwork-test.dir/test/sequence-number-test-suite.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-network-test-debug.dylib: src/network/CMakeFiles/libnetwork-test.dir/test/test-data-rate.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-network-test-debug.dylib: src/network/CMakeFiles/libnetwork-test.dir/build.make
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-network-test-debug.dylib: /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/lib/libsqlite3.tbd
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-network-test-debug.dylib: src/network/CMakeFiles/libnetwork-test.dir/link.txt
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/cmake-cache/CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Linking CXX shared library /Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-network-test-debug.dylib"
 	cd /Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/cmake-cache/src/network && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/libnetwork-test.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
-src/network/CMakeFiles/libnetwork-test.dir/build: /Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-network-test-default.dylib
+src/network/CMakeFiles/libnetwork-test.dir/build: /Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-network-test-debug.dylib
 .PHONY : src/network/CMakeFiles/libnetwork-test.dir/build
 
 src/network/CMakeFiles/libnetwork-test.dir/clean:

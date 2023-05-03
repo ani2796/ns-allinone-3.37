@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-mobility-test-default.dylib"
-  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-mobility-test-default.pdb"
+  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-mobility-test-debug.dylib"
+  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-mobility-test-debug.pdb"
   "CMakeFiles/libmobility-test.dir/test/box-line-intersection-test.cc.o"
   "CMakeFiles/libmobility-test.dir/test/box-line-intersection-test.cc.o.d"
   "CMakeFiles/libmobility-test.dir/test/geo-to-cartesian-test.cc.o"

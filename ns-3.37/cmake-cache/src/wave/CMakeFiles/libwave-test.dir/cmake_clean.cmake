@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wave-test-default.dylib"
-  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wave-test-default.pdb"
+  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wave-test-debug.dylib"
+  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wave-test-debug.pdb"
   "CMakeFiles/libwave-test.dir/test/mac-extension-test-suite.cc.o"
   "CMakeFiles/libwave-test.dir/test/mac-extension-test-suite.cc.o.d"
   "CMakeFiles/libwave-test.dir/test/ocb-test-suite.cc.o"

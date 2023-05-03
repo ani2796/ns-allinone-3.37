@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-lte-test-default.dylib"
-  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-lte-test-default.pdb"
+  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-lte-test-debug.dylib"
+  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-lte-test-debug.pdb"
   "CMakeFiles/liblte-test.dir/test/epc-test-gtpu.cc.o"
   "CMakeFiles/liblte-test.dir/test/epc-test-gtpu.cc.o.d"
   "CMakeFiles/liblte-test.dir/test/epc-test-s1u-downlink.cc.o"

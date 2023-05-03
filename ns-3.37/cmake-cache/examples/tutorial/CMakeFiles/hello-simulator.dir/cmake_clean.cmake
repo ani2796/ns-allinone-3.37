@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/examples/tutorial/ns3.37-hello-simulator-default"
-  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/examples/tutorial/ns3.37-hello-simulator-default.pdb"
+  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/examples/tutorial/ns3.37-hello-simulator-debug"
+  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/examples/tutorial/ns3.37-hello-simulator-debug.pdb"
   "CMakeFiles/hello-simulator.dir/hello-simulator.cc.o"
   "CMakeFiles/hello-simulator.dir/hello-simulator.cc.o.d"
 )

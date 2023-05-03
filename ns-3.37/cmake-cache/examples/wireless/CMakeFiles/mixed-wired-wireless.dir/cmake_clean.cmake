@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/examples/wireless/ns3.37-mixed-wired-wireless-default"
-  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/examples/wireless/ns3.37-mixed-wired-wireless-default.pdb"
+  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/examples/wireless/ns3.37-mixed-wired-wireless-debug"
+  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/examples/wireless/ns3.37-mixed-wired-wireless-debug.pdb"
   "CMakeFiles/mixed-wired-wireless.dir/mixed-wired-wireless.cc.o"
   "CMakeFiles/mixed-wired-wireless.dir/mixed-wired-wireless.cc.o.d"
 )

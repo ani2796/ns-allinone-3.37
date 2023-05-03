@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/examples/ipv6/ns3.37-loose-routing-ipv6-default"
-  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/examples/ipv6/ns3.37-loose-routing-ipv6-default.pdb"
+  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/examples/ipv6/ns3.37-loose-routing-ipv6-debug"
+  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/examples/ipv6/ns3.37-loose-routing-ipv6-debug.pdb"
   "CMakeFiles/loose-routing-ipv6.dir/loose-routing-ipv6.cc.o"
   "CMakeFiles/loose-routing-ipv6.dir/loose-routing-ipv6.cc.o.d"
 )

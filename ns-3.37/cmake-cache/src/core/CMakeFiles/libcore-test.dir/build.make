@@ -568,42 +568,42 @@ libcore__test_OBJECTS = \
 # External object files for target libcore-test
 libcore__test_EXTERNAL_OBJECTS =
 
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-core-test-default.dylib: src/core/CMakeFiles/libcore-test.dir/test/examples-as-tests-test-suite.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-core-test-default.dylib: src/core/CMakeFiles/libcore-test.dir/test/attribute-container-test-suite.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-core-test-default.dylib: src/core/CMakeFiles/libcore-test.dir/test/attribute-test-suite.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-core-test-default.dylib: src/core/CMakeFiles/libcore-test.dir/test/build-profile-test-suite.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-core-test-default.dylib: src/core/CMakeFiles/libcore-test.dir/test/callback-test-suite.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-core-test-default.dylib: src/core/CMakeFiles/libcore-test.dir/test/command-line-test-suite.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-core-test-default.dylib: src/core/CMakeFiles/libcore-test.dir/test/config-test-suite.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-core-test-default.dylib: src/core/CMakeFiles/libcore-test.dir/test/event-garbage-collector-test-suite.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-core-test-default.dylib: src/core/CMakeFiles/libcore-test.dir/test/global-value-test-suite.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-core-test-default.dylib: src/core/CMakeFiles/libcore-test.dir/test/hash-test-suite.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-core-test-default.dylib: src/core/CMakeFiles/libcore-test.dir/test/int64x64-test-suite.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-core-test-default.dylib: src/core/CMakeFiles/libcore-test.dir/test/length-test-suite.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-core-test-default.dylib: src/core/CMakeFiles/libcore-test.dir/test/many-uniform-random-variables-one-get-value-call-test-suite.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-core-test-default.dylib: src/core/CMakeFiles/libcore-test.dir/test/names-test-suite.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-core-test-default.dylib: src/core/CMakeFiles/libcore-test.dir/test/object-test-suite.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-core-test-default.dylib: src/core/CMakeFiles/libcore-test.dir/test/one-uniform-random-variable-many-get-value-calls-test-suite.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-core-test-default.dylib: src/core/CMakeFiles/libcore-test.dir/test/pair-value-test-suite.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-core-test-default.dylib: src/core/CMakeFiles/libcore-test.dir/test/ptr-test-suite.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-core-test-default.dylib: src/core/CMakeFiles/libcore-test.dir/test/sample-test-suite.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-core-test-default.dylib: src/core/CMakeFiles/libcore-test.dir/test/simulator-test-suite.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-core-test-default.dylib: src/core/CMakeFiles/libcore-test.dir/test/threaded-test-suite.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-core-test-default.dylib: src/core/CMakeFiles/libcore-test.dir/test/time-test-suite.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-core-test-default.dylib: src/core/CMakeFiles/libcore-test.dir/test/timer-test-suite.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-core-test-default.dylib: src/core/CMakeFiles/libcore-test.dir/test/traced-callback-test-suite.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-core-test-default.dylib: src/core/CMakeFiles/libcore-test.dir/test/trickle-timer-test-suite.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-core-test-default.dylib: src/core/CMakeFiles/libcore-test.dir/test/tuple-value-test-suite.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-core-test-default.dylib: src/core/CMakeFiles/libcore-test.dir/test/type-id-test-suite.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-core-test-default.dylib: src/core/CMakeFiles/libcore-test.dir/test/type-traits-test-suite.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-core-test-default.dylib: src/core/CMakeFiles/libcore-test.dir/test/watchdog-test-suite.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-core-test-default.dylib: src/core/CMakeFiles/libcore-test.dir/build.make
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-core-test-default.dylib: src/core/CMakeFiles/libcore-test.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/cmake-cache/CMakeFiles --progress-num=$(CMAKE_PROGRESS_30) "Linking CXX shared library /Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-core-test-default.dylib"
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-core-test-debug.dylib: src/core/CMakeFiles/libcore-test.dir/test/examples-as-tests-test-suite.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-core-test-debug.dylib: src/core/CMakeFiles/libcore-test.dir/test/attribute-container-test-suite.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-core-test-debug.dylib: src/core/CMakeFiles/libcore-test.dir/test/attribute-test-suite.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-core-test-debug.dylib: src/core/CMakeFiles/libcore-test.dir/test/build-profile-test-suite.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-core-test-debug.dylib: src/core/CMakeFiles/libcore-test.dir/test/callback-test-suite.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-core-test-debug.dylib: src/core/CMakeFiles/libcore-test.dir/test/command-line-test-suite.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-core-test-debug.dylib: src/core/CMakeFiles/libcore-test.dir/test/config-test-suite.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-core-test-debug.dylib: src/core/CMakeFiles/libcore-test.dir/test/event-garbage-collector-test-suite.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-core-test-debug.dylib: src/core/CMakeFiles/libcore-test.dir/test/global-value-test-suite.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-core-test-debug.dylib: src/core/CMakeFiles/libcore-test.dir/test/hash-test-suite.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-core-test-debug.dylib: src/core/CMakeFiles/libcore-test.dir/test/int64x64-test-suite.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-core-test-debug.dylib: src/core/CMakeFiles/libcore-test.dir/test/length-test-suite.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-core-test-debug.dylib: src/core/CMakeFiles/libcore-test.dir/test/many-uniform-random-variables-one-get-value-call-test-suite.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-core-test-debug.dylib: src/core/CMakeFiles/libcore-test.dir/test/names-test-suite.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-core-test-debug.dylib: src/core/CMakeFiles/libcore-test.dir/test/object-test-suite.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-core-test-debug.dylib: src/core/CMakeFiles/libcore-test.dir/test/one-uniform-random-variable-many-get-value-calls-test-suite.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-core-test-debug.dylib: src/core/CMakeFiles/libcore-test.dir/test/pair-value-test-suite.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-core-test-debug.dylib: src/core/CMakeFiles/libcore-test.dir/test/ptr-test-suite.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-core-test-debug.dylib: src/core/CMakeFiles/libcore-test.dir/test/sample-test-suite.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-core-test-debug.dylib: src/core/CMakeFiles/libcore-test.dir/test/simulator-test-suite.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-core-test-debug.dylib: src/core/CMakeFiles/libcore-test.dir/test/threaded-test-suite.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-core-test-debug.dylib: src/core/CMakeFiles/libcore-test.dir/test/time-test-suite.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-core-test-debug.dylib: src/core/CMakeFiles/libcore-test.dir/test/timer-test-suite.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-core-test-debug.dylib: src/core/CMakeFiles/libcore-test.dir/test/traced-callback-test-suite.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-core-test-debug.dylib: src/core/CMakeFiles/libcore-test.dir/test/trickle-timer-test-suite.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-core-test-debug.dylib: src/core/CMakeFiles/libcore-test.dir/test/tuple-value-test-suite.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-core-test-debug.dylib: src/core/CMakeFiles/libcore-test.dir/test/type-id-test-suite.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-core-test-debug.dylib: src/core/CMakeFiles/libcore-test.dir/test/type-traits-test-suite.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-core-test-debug.dylib: src/core/CMakeFiles/libcore-test.dir/test/watchdog-test-suite.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-core-test-debug.dylib: src/core/CMakeFiles/libcore-test.dir/build.make
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-core-test-debug.dylib: src/core/CMakeFiles/libcore-test.dir/link.txt
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/cmake-cache/CMakeFiles --progress-num=$(CMAKE_PROGRESS_30) "Linking CXX shared library /Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-core-test-debug.dylib"
 	cd /Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/cmake-cache/src/core && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/libcore-test.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
-src/core/CMakeFiles/libcore-test.dir/build: /Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-core-test-default.dylib
+src/core/CMakeFiles/libcore-test.dir/build: /Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-core-test-debug.dylib
 .PHONY : src/core/CMakeFiles/libcore-test.dir/build
 
 src/core/CMakeFiles/libcore-test.dir/clean:

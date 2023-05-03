@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/examples/udp-client-server/ns3.37-udp-client-server-default"
-  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/examples/udp-client-server/ns3.37-udp-client-server-default.pdb"
+  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/examples/udp-client-server/ns3.37-udp-client-server-debug"
+  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/examples/udp-client-server/ns3.37-udp-client-server-debug.pdb"
   "CMakeFiles/udp-client-server.dir/udp-client-server.cc.o"
   "CMakeFiles/udp-client-server.dir/udp-client-server.cc.o.d"
 )

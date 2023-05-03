@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/examples/wireless/ns3.37-wifi-ofdm-vht-validation-default"
-  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/examples/wireless/ns3.37-wifi-ofdm-vht-validation-default.pdb"
+  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/examples/wireless/ns3.37-wifi-ofdm-vht-validation-debug"
+  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/examples/wireless/ns3.37-wifi-ofdm-vht-validation-debug.pdb"
   "CMakeFiles/wifi-ofdm-vht-validation.dir/wifi-ofdm-vht-validation.cc.o"
   "CMakeFiles/wifi-ofdm-vht-validation.dir/wifi-ofdm-vht-validation.cc.o.d"
 )

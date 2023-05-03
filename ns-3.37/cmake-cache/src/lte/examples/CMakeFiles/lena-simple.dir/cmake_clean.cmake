@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/src/lte/examples/ns3.37-lena-simple-default"
-  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/src/lte/examples/ns3.37-lena-simple-default.pdb"
+  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/src/lte/examples/ns3.37-lena-simple-debug"
+  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/src/lte/examples/ns3.37-lena-simple-debug.pdb"
   "CMakeFiles/lena-simple.dir/lena-simple.cc.o"
   "CMakeFiles/lena-simple.dir/lena-simple.cc.o.d"
 )

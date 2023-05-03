@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/src/stats/examples/ns3.37-gnuplot-example-default"
-  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/src/stats/examples/ns3.37-gnuplot-example-default.pdb"
+  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/src/stats/examples/ns3.37-gnuplot-example-debug"
+  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/src/stats/examples/ns3.37-gnuplot-example-debug.pdb"
   "CMakeFiles/gnuplot-example.dir/gnuplot-example.cc.o"
   "CMakeFiles/gnuplot-example.dir/gnuplot-example.cc.o.d"
 )

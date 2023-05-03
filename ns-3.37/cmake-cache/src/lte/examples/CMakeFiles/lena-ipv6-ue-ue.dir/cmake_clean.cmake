@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/src/lte/examples/ns3.37-lena-ipv6-ue-ue-default"
-  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/src/lte/examples/ns3.37-lena-ipv6-ue-ue-default.pdb"
+  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/src/lte/examples/ns3.37-lena-ipv6-ue-ue-debug"
+  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/src/lte/examples/ns3.37-lena-ipv6-ue-ue-debug.pdb"
   "CMakeFiles/lena-ipv6-ue-ue.dir/lena-ipv6-ue-ue.cc.o"
   "CMakeFiles/lena-ipv6-ue-ue.dir/lena-ipv6-ue-ue.cc.o.d"
 )

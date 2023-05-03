@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-spectrum-test-default.dylib"
-  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-spectrum-test-default.pdb"
+  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-spectrum-test-debug.dylib"
+  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-spectrum-test-debug.pdb"
   "CMakeFiles/libspectrum-test.dir/test/spectrum-ideal-phy-test.cc.o"
   "CMakeFiles/libspectrum-test.dir/test/spectrum-ideal-phy-test.cc.o.d"
   "CMakeFiles/libspectrum-test.dir/test/spectrum-interference-test.cc.o"

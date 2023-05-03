@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/examples/energy/ns3.37-energy-model-example-default"
-  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/examples/energy/ns3.37-energy-model-example-default.pdb"
+  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/examples/energy/ns3.37-energy-model-example-debug"
+  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/examples/energy/ns3.37-energy-model-example-debug.pdb"
   "CMakeFiles/energy-model-example.dir/energy-model-example.cc.o"
   "CMakeFiles/energy-model-example.dir/energy-model-example.cc.o.d"
 )

@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/src/wimax/examples/ns3.37-wimax-ipv4-default"
-  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/src/wimax/examples/ns3.37-wimax-ipv4-default.pdb"
+  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/src/wimax/examples/ns3.37-wimax-ipv4-debug"
+  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/src/wimax/examples/ns3.37-wimax-ipv4-debug.pdb"
   "CMakeFiles/wimax-ipv4.dir/wimax-ipv4.cc.o"
   "CMakeFiles/wimax-ipv4.dir/wimax-ipv4.cc.o.d"
 )

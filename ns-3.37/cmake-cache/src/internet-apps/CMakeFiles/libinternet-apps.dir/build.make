@@ -89,28 +89,28 @@ libinternet__apps_EXTERNAL_OBJECTS = \
 "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/cmake-cache/src/internet-apps/CMakeFiles/libinternet-apps-obj.dir/model/v4ping.cc.o" \
 "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/cmake-cache/src/internet-apps/CMakeFiles/libinternet-apps-obj.dir/model/v4traceroute.cc.o"
 
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-internet-apps-default.dylib: src/internet-apps/CMakeFiles/libinternet-apps-obj.dir/helper/dhcp-helper.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-internet-apps-default.dylib: src/internet-apps/CMakeFiles/libinternet-apps-obj.dir/helper/ping6-helper.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-internet-apps-default.dylib: src/internet-apps/CMakeFiles/libinternet-apps-obj.dir/helper/radvd-helper.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-internet-apps-default.dylib: src/internet-apps/CMakeFiles/libinternet-apps-obj.dir/helper/v4ping-helper.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-internet-apps-default.dylib: src/internet-apps/CMakeFiles/libinternet-apps-obj.dir/helper/v4traceroute-helper.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-internet-apps-default.dylib: src/internet-apps/CMakeFiles/libinternet-apps-obj.dir/model/dhcp-client.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-internet-apps-default.dylib: src/internet-apps/CMakeFiles/libinternet-apps-obj.dir/model/dhcp-header.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-internet-apps-default.dylib: src/internet-apps/CMakeFiles/libinternet-apps-obj.dir/model/dhcp-server.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-internet-apps-default.dylib: src/internet-apps/CMakeFiles/libinternet-apps-obj.dir/model/ping6.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-internet-apps-default.dylib: src/internet-apps/CMakeFiles/libinternet-apps-obj.dir/model/radvd-interface.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-internet-apps-default.dylib: src/internet-apps/CMakeFiles/libinternet-apps-obj.dir/model/radvd-prefix.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-internet-apps-default.dylib: src/internet-apps/CMakeFiles/libinternet-apps-obj.dir/model/radvd.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-internet-apps-default.dylib: src/internet-apps/CMakeFiles/libinternet-apps-obj.dir/model/v4ping.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-internet-apps-default.dylib: src/internet-apps/CMakeFiles/libinternet-apps-obj.dir/model/v4traceroute.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-internet-apps-default.dylib: src/internet-apps/CMakeFiles/libinternet-apps.dir/build.make
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-internet-apps-default.dylib: /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/lib/libsqlite3.tbd
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-internet-apps-default.dylib: src/internet-apps/CMakeFiles/libinternet-apps.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/cmake-cache/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Linking CXX shared library /Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-internet-apps-default.dylib"
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-internet-apps-debug.dylib: src/internet-apps/CMakeFiles/libinternet-apps-obj.dir/helper/dhcp-helper.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-internet-apps-debug.dylib: src/internet-apps/CMakeFiles/libinternet-apps-obj.dir/helper/ping6-helper.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-internet-apps-debug.dylib: src/internet-apps/CMakeFiles/libinternet-apps-obj.dir/helper/radvd-helper.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-internet-apps-debug.dylib: src/internet-apps/CMakeFiles/libinternet-apps-obj.dir/helper/v4ping-helper.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-internet-apps-debug.dylib: src/internet-apps/CMakeFiles/libinternet-apps-obj.dir/helper/v4traceroute-helper.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-internet-apps-debug.dylib: src/internet-apps/CMakeFiles/libinternet-apps-obj.dir/model/dhcp-client.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-internet-apps-debug.dylib: src/internet-apps/CMakeFiles/libinternet-apps-obj.dir/model/dhcp-header.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-internet-apps-debug.dylib: src/internet-apps/CMakeFiles/libinternet-apps-obj.dir/model/dhcp-server.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-internet-apps-debug.dylib: src/internet-apps/CMakeFiles/libinternet-apps-obj.dir/model/ping6.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-internet-apps-debug.dylib: src/internet-apps/CMakeFiles/libinternet-apps-obj.dir/model/radvd-interface.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-internet-apps-debug.dylib: src/internet-apps/CMakeFiles/libinternet-apps-obj.dir/model/radvd-prefix.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-internet-apps-debug.dylib: src/internet-apps/CMakeFiles/libinternet-apps-obj.dir/model/radvd.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-internet-apps-debug.dylib: src/internet-apps/CMakeFiles/libinternet-apps-obj.dir/model/v4ping.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-internet-apps-debug.dylib: src/internet-apps/CMakeFiles/libinternet-apps-obj.dir/model/v4traceroute.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-internet-apps-debug.dylib: src/internet-apps/CMakeFiles/libinternet-apps.dir/build.make
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-internet-apps-debug.dylib: /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/lib/libsqlite3.tbd
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-internet-apps-debug.dylib: src/internet-apps/CMakeFiles/libinternet-apps.dir/link.txt
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/cmake-cache/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Linking CXX shared library /Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-internet-apps-debug.dylib"
 	cd /Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/cmake-cache/src/internet-apps && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/libinternet-apps.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
-src/internet-apps/CMakeFiles/libinternet-apps.dir/build: /Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-internet-apps-default.dylib
+src/internet-apps/CMakeFiles/libinternet-apps.dir/build: /Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-internet-apps-debug.dylib
 .PHONY : src/internet-apps/CMakeFiles/libinternet-apps.dir/build
 
 src/internet-apps/CMakeFiles/libinternet-apps.dir/clean:

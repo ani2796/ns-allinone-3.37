@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/src/wifi/examples/ns3.37-wifi-phy-test-default"
-  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/src/wifi/examples/ns3.37-wifi-phy-test-default.pdb"
+  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/src/wifi/examples/ns3.37-wifi-phy-test-debug"
+  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/src/wifi/examples/ns3.37-wifi-phy-test-debug.pdb"
   "CMakeFiles/wifi-phy-test.dir/wifi-phy-test.cc.o"
   "CMakeFiles/wifi-phy-test.dir/wifi-phy-test.cc.o.d"
 )

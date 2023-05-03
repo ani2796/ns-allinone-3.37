@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/examples/wireless/ns3.37-wifi-spatial-reuse-default"
-  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/examples/wireless/ns3.37-wifi-spatial-reuse-default.pdb"
+  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/examples/wireless/ns3.37-wifi-spatial-reuse-debug"
+  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/examples/wireless/ns3.37-wifi-spatial-reuse-debug.pdb"
   "CMakeFiles/wifi-spatial-reuse.dir/wifi-spatial-reuse.cc.o"
   "CMakeFiles/wifi-spatial-reuse.dir/wifi-spatial-reuse.cc.o.d"
 )

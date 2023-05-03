@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-internet-apps-test-default.dylib"
-  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-internet-apps-test-default.pdb"
+  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-internet-apps-test-debug.dylib"
+  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-internet-apps-test-debug.pdb"
   "CMakeFiles/libinternet-apps-test.dir/test/dhcp-test.cc.o"
   "CMakeFiles/libinternet-apps-test.dir/test/dhcp-test.cc.o.d"
   "CMakeFiles/libinternet-apps-test.dir/test/ipv6-radvd-test.cc.o"

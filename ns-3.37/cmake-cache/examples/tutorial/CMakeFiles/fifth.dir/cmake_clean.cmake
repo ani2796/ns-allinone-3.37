@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/examples/tutorial/ns3.37-fifth-default"
-  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/examples/tutorial/ns3.37-fifth-default.pdb"
+  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/examples/tutorial/ns3.37-fifth-debug"
+  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/examples/tutorial/ns3.37-fifth-debug.pdb"
   "CMakeFiles/fifth.dir/fifth.cc.o"
   "CMakeFiles/fifth.dir/fifth.cc.o.d"
   "CMakeFiles/fifth.dir/tutorial-app.cc.o"

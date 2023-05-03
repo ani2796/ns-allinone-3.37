@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/src/traffic-control/examples/ns3.37-fqcodel-l4s-example-default"
-  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/src/traffic-control/examples/ns3.37-fqcodel-l4s-example-default.pdb"
+  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/src/traffic-control/examples/ns3.37-fqcodel-l4s-example-debug"
+  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/src/traffic-control/examples/ns3.37-fqcodel-l4s-example-debug.pdb"
   "CMakeFiles/fqcodel-l4s-example.dir/fqcodel-l4s-example.cc.o"
   "CMakeFiles/fqcodel-l4s-example.dir/fqcodel-l4s-example.cc.o.d"
 )

@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wifi-test-default.dylib"
-  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wifi-test-default.pdb"
+  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wifi-test-debug.dylib"
+  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-wifi-test-debug.pdb"
   "CMakeFiles/libwifi-test.dir/test/block-ack-test-suite.cc.o"
   "CMakeFiles/libwifi-test.dir/test/block-ack-test-suite.cc.o.d"
   "CMakeFiles/libwifi-test.dir/test/channel-access-manager-test.cc.o"

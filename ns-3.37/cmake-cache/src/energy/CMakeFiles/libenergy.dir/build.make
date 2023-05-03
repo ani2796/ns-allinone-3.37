@@ -92,31 +92,31 @@ libenergy_EXTERNAL_OBJECTS = \
 "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/cmake-cache/src/energy/CMakeFiles/libenergy-obj.dir/model/rv-battery-model.cc.o" \
 "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/cmake-cache/src/energy/CMakeFiles/libenergy-obj.dir/model/simple-device-energy-model.cc.o"
 
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-energy-default.dylib: src/energy/CMakeFiles/libenergy-obj.dir/helper/basic-energy-harvester-helper.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-energy-default.dylib: src/energy/CMakeFiles/libenergy-obj.dir/helper/basic-energy-source-helper.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-energy-default.dylib: src/energy/CMakeFiles/libenergy-obj.dir/helper/energy-harvester-container.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-energy-default.dylib: src/energy/CMakeFiles/libenergy-obj.dir/helper/energy-harvester-helper.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-energy-default.dylib: src/energy/CMakeFiles/libenergy-obj.dir/helper/energy-model-helper.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-energy-default.dylib: src/energy/CMakeFiles/libenergy-obj.dir/helper/energy-source-container.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-energy-default.dylib: src/energy/CMakeFiles/libenergy-obj.dir/helper/li-ion-energy-source-helper.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-energy-default.dylib: src/energy/CMakeFiles/libenergy-obj.dir/helper/rv-battery-model-helper.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-energy-default.dylib: src/energy/CMakeFiles/libenergy-obj.dir/model/basic-energy-harvester.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-energy-default.dylib: src/energy/CMakeFiles/libenergy-obj.dir/model/basic-energy-source.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-energy-default.dylib: src/energy/CMakeFiles/libenergy-obj.dir/model/device-energy-model-container.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-energy-default.dylib: src/energy/CMakeFiles/libenergy-obj.dir/model/device-energy-model.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-energy-default.dylib: src/energy/CMakeFiles/libenergy-obj.dir/model/energy-harvester.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-energy-default.dylib: src/energy/CMakeFiles/libenergy-obj.dir/model/energy-source.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-energy-default.dylib: src/energy/CMakeFiles/libenergy-obj.dir/model/li-ion-energy-source.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-energy-default.dylib: src/energy/CMakeFiles/libenergy-obj.dir/model/rv-battery-model.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-energy-default.dylib: src/energy/CMakeFiles/libenergy-obj.dir/model/simple-device-energy-model.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-energy-default.dylib: src/energy/CMakeFiles/libenergy.dir/build.make
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-energy-default.dylib: /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/lib/libsqlite3.tbd
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-energy-default.dylib: src/energy/CMakeFiles/libenergy.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/cmake-cache/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Linking CXX shared library /Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-energy-default.dylib"
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-energy-debug.dylib: src/energy/CMakeFiles/libenergy-obj.dir/helper/basic-energy-harvester-helper.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-energy-debug.dylib: src/energy/CMakeFiles/libenergy-obj.dir/helper/basic-energy-source-helper.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-energy-debug.dylib: src/energy/CMakeFiles/libenergy-obj.dir/helper/energy-harvester-container.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-energy-debug.dylib: src/energy/CMakeFiles/libenergy-obj.dir/helper/energy-harvester-helper.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-energy-debug.dylib: src/energy/CMakeFiles/libenergy-obj.dir/helper/energy-model-helper.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-energy-debug.dylib: src/energy/CMakeFiles/libenergy-obj.dir/helper/energy-source-container.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-energy-debug.dylib: src/energy/CMakeFiles/libenergy-obj.dir/helper/li-ion-energy-source-helper.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-energy-debug.dylib: src/energy/CMakeFiles/libenergy-obj.dir/helper/rv-battery-model-helper.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-energy-debug.dylib: src/energy/CMakeFiles/libenergy-obj.dir/model/basic-energy-harvester.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-energy-debug.dylib: src/energy/CMakeFiles/libenergy-obj.dir/model/basic-energy-source.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-energy-debug.dylib: src/energy/CMakeFiles/libenergy-obj.dir/model/device-energy-model-container.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-energy-debug.dylib: src/energy/CMakeFiles/libenergy-obj.dir/model/device-energy-model.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-energy-debug.dylib: src/energy/CMakeFiles/libenergy-obj.dir/model/energy-harvester.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-energy-debug.dylib: src/energy/CMakeFiles/libenergy-obj.dir/model/energy-source.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-energy-debug.dylib: src/energy/CMakeFiles/libenergy-obj.dir/model/li-ion-energy-source.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-energy-debug.dylib: src/energy/CMakeFiles/libenergy-obj.dir/model/rv-battery-model.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-energy-debug.dylib: src/energy/CMakeFiles/libenergy-obj.dir/model/simple-device-energy-model.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-energy-debug.dylib: src/energy/CMakeFiles/libenergy.dir/build.make
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-energy-debug.dylib: /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/lib/libsqlite3.tbd
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-energy-debug.dylib: src/energy/CMakeFiles/libenergy.dir/link.txt
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/cmake-cache/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Linking CXX shared library /Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-energy-debug.dylib"
 	cd /Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/cmake-cache/src/energy && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/libenergy.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
-src/energy/CMakeFiles/libenergy.dir/build: /Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-energy-default.dylib
+src/energy/CMakeFiles/libenergy.dir/build: /Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-energy-debug.dylib
 .PHONY : src/energy/CMakeFiles/libenergy.dir/build
 
 src/energy/CMakeFiles/libenergy.dir/clean:

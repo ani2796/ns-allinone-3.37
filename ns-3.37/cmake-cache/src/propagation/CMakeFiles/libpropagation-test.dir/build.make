@@ -211,22 +211,22 @@ libpropagation__test_OBJECTS = \
 # External object files for target libpropagation-test
 libpropagation__test_EXTERNAL_OBJECTS =
 
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-propagation-test-default.dylib: src/propagation/CMakeFiles/libpropagation-test.dir/test/channel-condition-model-test-suite.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-propagation-test-default.dylib: src/propagation/CMakeFiles/libpropagation-test.dir/test/itu-r-1411-los-test-suite.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-propagation-test-default.dylib: src/propagation/CMakeFiles/libpropagation-test.dir/test/itu-r-1411-nlos-over-rooftop-test-suite.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-propagation-test-default.dylib: src/propagation/CMakeFiles/libpropagation-test.dir/test/kun-2600-mhz-test-suite.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-propagation-test-default.dylib: src/propagation/CMakeFiles/libpropagation-test.dir/test/okumura-hata-test-suite.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-propagation-test-default.dylib: src/propagation/CMakeFiles/libpropagation-test.dir/test/probabilistic-v2v-channel-condition-model-test.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-propagation-test-default.dylib: src/propagation/CMakeFiles/libpropagation-test.dir/test/propagation-loss-model-test-suite.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-propagation-test-default.dylib: src/propagation/CMakeFiles/libpropagation-test.dir/test/three-gpp-propagation-loss-model-test-suite.cc.o
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-propagation-test-default.dylib: src/propagation/CMakeFiles/libpropagation-test.dir/build.make
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-propagation-test-default.dylib: /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/lib/libsqlite3.tbd
-/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-propagation-test-default.dylib: src/propagation/CMakeFiles/libpropagation-test.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/cmake-cache/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Linking CXX shared library /Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-propagation-test-default.dylib"
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-propagation-test-debug.dylib: src/propagation/CMakeFiles/libpropagation-test.dir/test/channel-condition-model-test-suite.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-propagation-test-debug.dylib: src/propagation/CMakeFiles/libpropagation-test.dir/test/itu-r-1411-los-test-suite.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-propagation-test-debug.dylib: src/propagation/CMakeFiles/libpropagation-test.dir/test/itu-r-1411-nlos-over-rooftop-test-suite.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-propagation-test-debug.dylib: src/propagation/CMakeFiles/libpropagation-test.dir/test/kun-2600-mhz-test-suite.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-propagation-test-debug.dylib: src/propagation/CMakeFiles/libpropagation-test.dir/test/okumura-hata-test-suite.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-propagation-test-debug.dylib: src/propagation/CMakeFiles/libpropagation-test.dir/test/probabilistic-v2v-channel-condition-model-test.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-propagation-test-debug.dylib: src/propagation/CMakeFiles/libpropagation-test.dir/test/propagation-loss-model-test-suite.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-propagation-test-debug.dylib: src/propagation/CMakeFiles/libpropagation-test.dir/test/three-gpp-propagation-loss-model-test-suite.cc.o
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-propagation-test-debug.dylib: src/propagation/CMakeFiles/libpropagation-test.dir/build.make
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-propagation-test-debug.dylib: /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/lib/libsqlite3.tbd
+/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-propagation-test-debug.dylib: src/propagation/CMakeFiles/libpropagation-test.dir/link.txt
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/cmake-cache/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Linking CXX shared library /Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-propagation-test-debug.dylib"
 	cd /Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/cmake-cache/src/propagation && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/libpropagation-test.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
-src/propagation/CMakeFiles/libpropagation-test.dir/build: /Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-propagation-test-default.dylib
+src/propagation/CMakeFiles/libpropagation-test.dir/build: /Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/lib/libns3.37-propagation-test-debug.dylib
 .PHONY : src/propagation/CMakeFiles/libpropagation-test.dir/build
 
 src/propagation/CMakeFiles/libpropagation-test.dir/clean:

@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/examples/wireless/ns3.37-wifi-error-models-comparison-default"
-  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/examples/wireless/ns3.37-wifi-error-models-comparison-default.pdb"
+  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/examples/wireless/ns3.37-wifi-error-models-comparison-debug"
+  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/examples/wireless/ns3.37-wifi-error-models-comparison-debug.pdb"
   "CMakeFiles/wifi-error-models-comparison.dir/wifi-error-models-comparison.cc.o"
   "CMakeFiles/wifi-error-models-comparison.dir/wifi-error-models-comparison.cc.o.d"
 )

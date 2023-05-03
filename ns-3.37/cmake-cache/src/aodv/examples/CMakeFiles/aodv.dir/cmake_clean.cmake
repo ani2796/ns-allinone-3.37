@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/src/aodv/examples/ns3.37-aodv-default"
-  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/src/aodv/examples/ns3.37-aodv-default.pdb"
+  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/src/aodv/examples/ns3.37-aodv-debug"
+  "/Users/anirudhsriram/Downloads/ns-allinone-3.37/ns-3.37/build/src/aodv/examples/ns3.37-aodv-debug.pdb"
   "CMakeFiles/aodv.dir/aodv.cc.o"
   "CMakeFiles/aodv.dir/aodv.cc.o.d"
 )
